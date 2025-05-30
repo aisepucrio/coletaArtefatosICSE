@@ -1,0 +1,211 @@
+Title,DOI,Artifact Available,Artifact Reusable,Artifact Functional
+Future Software for Life in Trusted Futures,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00010,False,False,False
+The Road Toward Dependable AI Based Systems,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00011,False,False,False
+Software Engineering as the Linchpin of Responsible AI,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00012,False,False,False
+One Adapter for All Programming Languages? Adapter Tuning for Code Search and Summarization,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00013,False,False,False
+CCRep: Learning Code Change Representations via Pre-Trained Code Model and Query Back,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00014,False,False,False
+Keeping Pace with Ever-Increasing Data: Towards Continual Learning of Code Intelligence Models,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00015,False,False,False
+Detecting JVM JIT Compiler Bugs via Exploring Two-Dimensional Input Spaces,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00016,True,True,False
+JITfuzz: Coverage-Guided Fuzzing for JVM Just-in-Time Compilers,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00017,False,False,False
+Validating SMT Solvers via Skeleton Enumeration Empowered by Historical Bug-Triggering Inputs,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00018,True,True,False
+Regression Fuzzing for Deep Learning Systems,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00019,True,True,False
+Operand-Variation-Oriented Differential Analysis for Fuzzing Binding Calls in PDF Readers,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00020,True,True,False
+The Untold Story of Code Refactoring Customizations in Practice,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00021,False,False,False
+Data Quality for Software Vulnerability Datasets,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00022,False,False,False
+Do Code Refactorings Influence the Merge Effort?,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00023,False,False,False
+A Comprehensive Study of Real-World Bugs in Machine Learning Model Optimization,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00024,False,False,False
+Evaluating the Impact of Experimental Assumptions in Automated Fault Localization,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00025,True,True,False
+Locating Framework-Specific Crashing Faults with Compact and Explainable Candidate Set,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00026,True,True,False
+PExReport: Automatic Creation of Pruned Executable Cross-Project Failure Reports,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00027,True,True,False
+RAT: A Refactoring-Aware Traceability Model for Bug Localization,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00028,False,False,False
+How Do We Read Formal Claims? Eye-Tracking and the Cognition of Proofs about Algorithms,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00029,False,False,False
+Which of My Assumptions are Unnecessary for Realizability and Why Should I Care?,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00030,True,True,False
+UpCy: Safely Updating Outdated Dependencies,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00031,True,False,True
+APICad: Augmenting API Misuse Detection through Specifications from Code and Documents,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00032,True,True,False
+Compatibility Issue Detection for Android Apps Based on Path-Sensitive Semantic Analysis,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00033,False,False,False
+OSSFP: Precise and Scalable C/C++ Third-Party Library Detection Using Fingerprinting Functions,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00034,False,False,False
+SmartMark: Software Watermarking Scheme for Smart Contracts,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00035,True,False,False
+Turn the Rudder: A Beacon of Reentrancy Detection for Smart Contracts on Ethereum,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00036,False,False,False
+BSHUNTER: Detecting and Tracing Defects of Bitcoin Scripts,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00037,False,False,False
+Do I Belong? Modeling Sense of Virtual Community Among Linux Kernel Contributors,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00038,False,False,False
+Comparison and Evaluation of Clone Detection Techniques with Different Code Representations,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00039,False,False,False
+Learning Graph-Based Code Representations for Source-Level Functional Similarity Detection,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00040,True,False,True
+The Smelly Eight: An Empirical Study on the Prevalence of Code Smells in Quantum Computing,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00041,True,True,False
+Reachable Coverage: Estimating Saturation in Fuzzing,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00042,True,True,False
+Learning Seed-Adaptive Mutation Strategies for Greybox Fuzzing,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00043,True,True,False
+Improving Java Deserialization Gadget Chain Mining via Overriding-Guided Object Generation,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00044,False,False,False
+Evaluating and Improving Hybrid Fuzzing,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00045,False,False,False
+Robustification of Behavioral Designs against Environmental Deviations,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00046,False,False,False
+A Qualitative Study on the Implementation Design Decisions of Developers,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00047,False,False,False
+BFTDETECTOR: Automatic Detection of Business Flow Tampering for Digital Content Service,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00048,True,True,False
+FedSlice: Protecting Federated Learning Models from Malicious Participants with Model Slicing,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00049,True,False,False
+PTPDroid: Detecting Violated User Privacy Disclosures to Third-Parties of Android Apps,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00050,False,False,False
+AdHere: Automated Detection and Repair of Intrusive Ads,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00051,True,False,True
+Bad Snakes: Understanding and Improving Python Package Index Malware Scanning,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00052,True,False,False
+FedDebug: Systematic Debugging for Federated Learning Applications,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00053,True,True,False
+Practical and Efficient Model Extraction of Sentiment Analysis APIs,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00054,False,False,False
+CrossCodeBench: Benchmarking Cross-Task Generalization of Source Code Models,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00055,False,False,False
+ECSTATIC: An Extensible Framework for Testing and Debugging Configurable Static Analysis,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00056,True,True,False
+Responsibility in Context: On Applicability of Slicing in Semantic Regression Analysis,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00057,True,True,False
+Does the Stream API Benefit from Special Debugging Facilities? A Controlled Experiment on Loops and Streams with Specific Debuggers,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00058,False,False,False
+Fonte: Finding Bug Inducing Commits from Failures,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00059,True,True,False
+RepresentThemAll: A Universal Learning Representation of Bug Reports,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00060,False,False,False
+Demystifying Exploitable Bugs in Smart Contracts,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00061,False,False,False
+Understanding and Detecting On-the-Fly Configuration Bugs,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00062,False,False,False
+Explaining Software Bugs Leveraging Code Structures in Neural Machine Translation,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00063,True,False,False
+Is it Enough to Recommend Tasks to Newcomers? Understanding Mentoring on Good First Issues,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00064,False,False,False
+From Organizations to Individuals: Psychoactive Substance Use by Professional Programmers,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00065,False,False,False
+On the Self-Governance and Episodic Changes in Apache Incubator Projects: An Empirical Study,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00066,False,False,False
+Socio-Technical Anti-Patterns in Building ML-Enabled Software: Insights from Leaders on the Forefront,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00067,True,False,False
+Moving on from the Software Engineers' Gambit: An Approach to Support the Defense of Software Effort Estimates,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00068,False,False,False
+Concrat: An Automatic C-to-Rust Lock API Translator for Concurrent Programs,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00069,True,True,False
+Triggers for Reactive Synthesis Specifications,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00070,True,True,False
+Using Reactive Synthesis: An End-to-End Exploratory Case Study,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00071,True,False,False
+Syntax and Domain Aware Model for Unsupervised Program Translation,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00072,False,False,False
+Developer-Intent Driven Code Comment Generation,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00073,False,False,False
+Data Quality Matters: A Case Study of Obsolete Comment Detection,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00074,False,False,False
+Revisiting Learning-Based Commit Message Generation,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00075,True,False,False
+Commit Message Matters: Investigating Impact and Evolution of Commit Message Quality,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00076,False,False,False
+PILAR: Studying and Mitigating the Influence of Configurations on Log Parsing,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00077,False,False,False
+Did We Miss Something Important? Studying and Exploring Variable-Aware Log Abstraction,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00078,False,False,False
+On the Temporal Relations between Logging and Code,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00079,False,False,False
+How Do Developers' Profiles and Experiences Influence their Logging Practices? An Empirical Study of Industrial Practitioners,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00080,False,False,False
+When to Say What: Learning to Find Condition-Message Inconsistencies,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00081,True,True,False
+SemParser: A Semantic Parser for Log Analytics,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00082,False,False,False
+Badge: Prioritizing UI Events with Hierarchical Multi-Armed Bandits for Automated UI Testing,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00083,False,False,False
+Efficiency Matters: Speeding Up Automated Testing with GUI Rendering Inference,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00084,False,False,False
+CodaMosa: Escaping Coverage Plateaus in Test Generation with Pre-Trained Large Language Models,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00085,False,False,False
+TaintMini: Detecting Flow of Sensitive Data in Mini-Programs with Static Taint Analysis,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00086,False,True,False
+AChecker: Statically Detecting Smart Contract Access Control Vulnerabilities,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00087,True,True,False
+Fine-Grained Commit-Level Vulnerability Type Prediction by CWE Tree Structure,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00088,False,False,False
+Silent Vulnerable Dependency Alert Prediction with Vulnerability Key Aspect Explanation,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00089,False,False,False
+Reusing Deep Neural Network Models through Model Re-Engineering,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00090,False,False,False
+PyEvolve: Automating Frequent Code Changes in Python ML Systems,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00091,True,True,False
+DeepArc: Modularizing Neural Networks for the Model Maintenance,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00092,False,False,False
+Decomposing a Recurrent Neural Network into Modules for Enabling Reusability and Replacement,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00093,True,True,False
+Chronos: Time-Aware Zero-Shot Identification of Libraries from Vulnerability Reports,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00094,True,False,True
+Understanding the Threats of Upstream Vulnerabilities to Downstream Projects in the Maven Ecosystem,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00095,True,False,True
+SecBench.js: An Executable Security Benchmark Suite for Server-Side JavaScript,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00096,True,True,False
+On Privacy Weaknesses and Vulnerabilities in Software Systems,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00097,True,False,False
+Detecting Exception Handling Bugs in C++ Programs,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00098,False,False,False
+Learning to Boost Disjunctive Static Bug-Finders,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00099,True,False,False
+Predicting Bugs by Monitoring Developers during Task Execution,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00100,False,False,False
+Detecting Isolation Bugs via Transaction Oracle Construction,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00101,True,True,False
+SmallRace: Static Race Detection for Dynamic Languages - A Case on Smalltalk,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00102,True,False,False
+"""STILL AROUND"": Experiences and Survival Strategies of Veteran Women Software Developers",https://dl.acm.org/doi/10.1109/ICSE48619.2023.00103,False,False,False
+When and Why Test Generators for Deep Learning Produce Invalid Inputs: An Empirical Study,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00104,False,False,False
+Fuzzing Automatic Differentiation in Deep-Learning Libraries,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00105,False,False,False
+Lightweight Approaches to DNN Regression Error Reduction: An Uncertainty Alignment Perspective,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00106,False,False,False
+Revisiting Neuron Coverage for DNN Testing: A Layer-Wise and Distribution-Aware Criterion,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00107,True,False,False
+"Code Review of Build System Specifications: Prevalence, Purposes, Patterns, and Perceptions",https://dl.acm.org/doi/10.1109/ICSE48619.2023.00108,True,True,False
+Better Automatic Program Repair by Using Bug Reports and Tests Together,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00109,True,True,False
+CCTest: Testing and Repairing Code Completion Systems,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00110,False,False,False
+KNOD: Domain Knowledge Distilled Tree Decoder for Automated Program Repair,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00111,True,False,False
+Rete: Learning Namespace Representation for Program Repair,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00112,False,False,False
+AI-Based Question Answering Assistance for Analyzing Natural-Language Requirements,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00113,True,True,False
+"Strategies, Benefits and Challenges of App Store-Inspired Requirements Elicitation",https://dl.acm.org/doi/10.1109/ICSE48619.2023.00114,True,False,False
+Data-Driven Recurrent Set Learning for Non-termination Analysis,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00115,False,False,False
+Compiling Parallel Symbolic Execution with Continuations,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00116,True,True,False
+Verifying Data Constraint Equivalence in FinTech Systems,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00117,False,False,False
+Tolerate Control-Flow Changes for Sound Data Race Prediction,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00118,False,False,False
+Fill in the Blank: Context-Aware Automated Text Input Generation for Mobile GUI Testing,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00119,False,False,False
+Detecting Dialog-Related Keyboard Navigation Failures in Web Applications,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00120,False,True,False
+Columbus: Android App Testing through Systematic Callback Exploration,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00121,False,False,False
+GameRTS: A Regression Testing Framework for Video Games,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00122,False,False,False
+Autonomy Is an Acquired Taste: Exploring Developer Preferences for GitHub Bots,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00123,False,False,False
+Flexible and Optimal Dependency Management via Max-SMT,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00124,True,True,False
+Impact of Code Language Models on Automated Program Repair,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00125,True,False,True
+Tare: Type-Aware Neural Program Repair,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00126,False,False,False
+Template-Based Neural Program Repair,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00127,False,False,False
+Automated Repair of Programs from Large Language Models,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00128,False,False,False
+Automated Program Repair in the Era of Large Pre-Trained Language Models,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00129,False,False,False
+Faster or Slower? Performance Mystery of Python Idioms Unveiled with Empirical Evidence,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00130,False,False,False
+Testability Refactoring in Pull Requests: Patterns and Trends,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00131,False,False,False
+Usability-Oriented Design of Liquid Types for Java,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00132,True,True,False
+Towards Understanding Fairness and its Composition in Ensemble Machine Learning,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00133,True,False,True
+Fairify: Fairness Verification of Neural Networks,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00134,True,True,False
+Leveraging Feature Bias for Scalable Misprediction Explanation of Machine Learning Models,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00135,False,False,False
+Information-Theoretic Testing and Debugging of Fairness Defects in Deep Neural Networks,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00136,True,True,False
+Demystifying Privacy Policy of Third-Party Libraries in Mobile Apps,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00137,True,True,False
+Cross-Domain Requirements Linking via Adversarial-Based Domain Adaptation,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00138,False,False,False
+On-Demand Security Requirements Synthesis with Relational Generative Adversarial Networks,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00139,False,False,False
+Measuring Secure Coding Practice and Culture: A Finger Pointing at the Moon is Not the Moon,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00140,False,False,False
+What Challenges Do Developers Face about Checked-in Secrets in Software Artifacts?,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00141,True,False,False
+Lejacon: A Lightweight and Efficient Approach to Java Confidential Computing on SGX,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00142,False,False,False
+Keyword Extraction from Specification Documents for Planning Security Mechanisms,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00143,True,True,False
+Dependency Facade: The Coupling and Conflicts between Android Framework and Its Customization,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00144,True,False,True
+Test Selection for Unified Regression Testing,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00145,True,True,False
+ATM: Black-Box Test Case Minimization Based on Test Code Similarity and Evolutionary Search,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00146,False,False,False
+Measuring and Mitigating Gaps in Structural Testing,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00147,True,True,False
+Heterogeneous Anomaly Detection for Software Systems via Semi-Supervised Cross-Modal Attention,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00148,False,False,False
+Recommending Root-Cause and Mitigation Steps for Cloud Incidents Using Large Language Models,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00149,False,False,False
+Eadro: An End-to-End Troubleshooting Framework for Microservices on Multi-Source Data,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00150,False,False,False
+LogReducer: Identify and Reduce Log Hotspots in Kernel on the Fly,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00151,False,False,False
+Aries: Efficient Testing of Deep Neural Networks via Labeling-Free Accuracy Estimation,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00152,False,False,False
+CC: Causality-Aware Coverage Criterion for Deep Neural Networks,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00153,True,False,False
+Balancing Effectiveness and Flakiness of Non-Deterministic Machine Learning Tests,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00154,False,False,False
+Many-Objective Reinforcement Learning for Online Testing of DNN-Enabled Systems,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00155,False,False,False
+Reliability Assurance for Deep Neural Network Architectures against Numerical Defects,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00156,False,False,False
+"Demystifying Issues, Challenges, and Solutions for Multilingual Software Development",https://dl.acm.org/doi/10.1109/ICSE48619.2023.00157,True,True,False
+Automated Summarization of Stack Overflow Posts,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00158,False,False,False
+"Semi-Automatic, Inline and Collaborative Web Page Code Curations",https://dl.acm.org/doi/10.1109/ICSE48619.2023.00159,False,False,False
+Identifying Key Classes for Initial Software Comprehension: Can We Do it Better?,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00160,False,False,False
+Improving API Knowledge Discovery with ML: A Case Study of Comparable API Methods,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00161,True,False,True
+Evidence Profiles for Validity Threats in Program Comprehension Experiments,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00162,False,False,False
+Developers' Visuo-Spatial Mental Model and Program Comprehension,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00163,False,False,False
+Two Sides of the Same Coin: Exploiting the Impact of Identifiers in Neural Code Comprehension,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00164,False,False,False
+SeeHow: Workflow Extraction from Programming Screencasts through Action-Aware Video Analytics,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00165,False,False,False
+AidUI: Toward Automated Recognition of Dark Patterns in User Interfaces,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00166,True,False,True
+Carving UI Tests to Generate API Tests and API Specification,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00167,False,False,False
+Ex Pede Herculem: Augmenting Activity Transition Graph for Apps via Graph Convolution Network,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00168,False,False,False
+Sustainability is Stratified: Toward a Better Theory of Sustainable Software Engineering,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00169,False,False,False
+DLInfer: Deep Learning with Static Slicing for Python Type Inference,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00170,True,False,True
+ViolationTracker: Building Precise Histories for Static Analysis Violations,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00171,True,True,False
+Compiler Test-Program Generation via Memoized Configuration Search,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00172,False,False,False
+Generating Test Databases for Database-Backed Applications,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00173,False,False,False
+Testing Database Engines via Query Plan Guidance,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00174,True,True,False
+Testing Database Systems via Differential Query Execution,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00175,True,False,True
+Analyzing the Impact of Workloads on Modeling the Performance of Configurable Software Systems,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00176,True,True,False
+Twins or False Friends? A Study on Energy Consumption and Performance of Configurable Software,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00177,True,True,False
+Learning Deep Semantics for Test Completion,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00178,False,False,False
+SKCODER: A Sketch-Based Approach for Automatic Code Generation,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00179,False,False,False
+An Empirical Comparison of Pre-Trained Models of Source Code,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00180,False,False,False
+On the Robustness of Code Generation Techniques: An Empirical Study on GitHub Copilot,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00181,False,False,False
+Source Code Recommender Systems: The Practitioners' Perspective,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00182,False,False,False
+Safe Low-Level Code without Overhead is Practical,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00183,True,True,False
+Sibyl: Improving Software Engineering Tools with SMT Selection,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00184,True,True,False
+CoCoSoDa: Effective Contrastive Learning for Code Search,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00185,False,False,False
+Coverage Guided Fault Injection for Cloud Systems,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00186,True,True,False
+DIVER: Oracle-Guided SMT Solver Testing with Unrestricted Random Mutations,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00187,True,True,False
+An Empirical Study of Deep Learning Models for Vulnerability Detection,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00188,False,False,False
+DeepVD: Toward Class-Separation Features for Neural Network Vulnerability Detection,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00189,False,False,False
+Enhancing Deep Learning-Based Vulnerability Detection by Building Behavior Graph Model,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00190,False,False,False
+Vulnerability Detection with Graph Simplification and Enhanced Graph Representation Learning,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00191,False,False,False
+Does Data Sampling Improve Deep Learning-Based Vulnerability Detection? Yeas! and Nays!,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00192,False,False,False
+Incident-Aware Duplicate Ticket Aggregation for Cloud Systems,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00193,False,False,False
+Large Language Models are Few-Shot Testers: Exploring LLM-Based General Bug Reproduction,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00194,True,False,False
+On the Reproducibility of Software Defect Datasets,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00195,True,True,False
+Context-Aware Bug Reproduction for Mobile Apps,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00196,False,False,False
+"Read It, Don't Watch It: Captioning Bug Recordings Automatically",https://dl.acm.org/doi/10.1109/ICSE48619.2023.00197,False,False,False
+DUETCS: Code Style Transfer through Generation and Retrieval,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00198,False,False,False
+On the Applicability of Language Models to Block-Based Programs,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00199,False,False,False
+MTTM: Metamorphic Testing for Textual Content Moderation Software,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00200,False,False,False
+Metamorphic Shader Fusion for Testing Graphics Shader Compilers,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00201,False,False,False
+MorphQ: Metamorphic Testing of the Qiskit Quantum Computing Platform,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00202,True,True,False
+Automating Code-Related Tasks Through Transformers: The Impact of Pre-Training,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00203,False,False,False
+Log Parsing with Prompt-Based Few-Shot Learning,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00204,False,False,False
+Retrieval-Based Prompt Selection for Code-Related Few-Shot Learning,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00205,False,False,False
+An Empirical Study of Pre-Trained Model Reuse in the Hugging Face Deep Learning Model Registry,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00206,True,True,False
+ContraBERT: Enhancing Code Pre-Trained Models via Contrastive Learning,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00207,False,False,False
+DStream: A Streaming-Based Highly Parallel IFDS Framework,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00208,False,False,False
+(Partial) Program Dependence Learning,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00209,False,False,False
+MirrorTaint: Practical Non-Intrusive Dynamic Taint Tracking for JVM-Based Microservice Systems,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00210,False,False,False
+VULGEN: Realistic Vulnerability Generation Via Pattern Mining and Deep Learning,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00211,True,True,False
+Compatible Remediation on Vulnerabilities from Third-Party Libraries for Java Projects,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00212,False,False,False
+Automated Black-Box Testing of Mass Assignment Vulnerabilities in RESTful APIs,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00213,False,False,False
+CoLeFunDa: Explainable Silent Vulnerability Fix Identification,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00214,False,False,False
+Finding Causally Different Tests for an Industrial Control System,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00215,False,False,False
+Doppelgänger Test Generation for Revealing Bugs in Autonomous Driving Software,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00216,True,True,False
+Generating Realistic and Diverse Tests for LiDAR-Based Perception Systems,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00217,True,False,True
+Rules of Engagement: Why and How Companies Participate in OSS,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00218,False,False,False
+An Empirical Study on Software Bill of Materials: Where We Stand and the Road Ahead,https://dl.acm.org/doi/10.1109/ICSE48619.2023.00219,False,False,False
