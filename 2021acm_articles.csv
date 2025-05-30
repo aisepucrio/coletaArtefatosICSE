@@ -1,0 +1,139 @@
+Title,DOI,Artifact Available,Artifact Reusable,Artifact Functional
+Playing Planning Poker in Crowds: Human Computation of Software Effort Estimates,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00014,False,False,False
+JEST: N+1-version Differential Testing of Both JavaScript Engines and Specification,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00015,True,False,True
+Unrealizable Cores for Reactive Systems Specifications,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00016,False,False,True
+Verifying Determinism in Sequential Programs,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00017,False,False,True
+Domain-Specific Fixes for Flaky Tests with Wrong Assumptions on Underdetermined Specifications,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00018,False,False,False
+Studying Test Annotation Maintenance in the Wild,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00019,False,False,False
+Semantic Patches for Adaptation of JavaScript Programs to Evolving Libraries,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00020,False,False,True
+DepOwl: Detecting Dependency Bugs to Prevent Compatibility Failures,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00021,False,False,False
+Hero: On the Chaos When PATH Meets Modules,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00022,False,False,False
+SOAR: A Synthesis Approach for Data Science API Refactoring,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00023,True,False,True
+Are Machine Learning Cloud APIs Used Correctly?,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00024,False,False,True
+"Siri, Write the Next Method",https://dl.acm.org/doi/10.1109/ICSE43902.2021.00025,False,False,False
+Code Prediction by Feeding Trees to Transformers,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00026,False,False,False
+Towards Automating Code Review Activities,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00027,False,False,False
+Resource-Guided Configuration Space Reduction for Deep Learning Models,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00028,False,False,False
+An Evolutionary Study of Configuration Design and Implementation in Cloud Systems,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00029,False,False,True
+AutoCCAG: An Automated Approach to Constrained Covering Array Generation,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00030,False,False,False
+"What helped, and what did not?: An Evaluation of the Strategies to Improve Continuous Integration",https://dl.acm.org/doi/10.1109/ICSE43902.2021.00031,True,False,True
+Distribution-Aware Testing of Neural Networks Using Generative Models,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00032,True,False,True
+An Empirical Study of Refactorings and Technical Debt in Machine Learning Systems,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00033,False,False,False
+DeepLocalize: Fault Localization for Deep Neural Networks,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00034,False,False,False
+DeepPayload: Black-box Backdoor Attack on Deep Learning Models through Neural Payload Injection,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00035,False,False,False
+Reducing DNN Properties to Enable Falsification with Adversarial Attacks,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00036,True,False,True
+Graph-based Fuzz Testing for Deep Learning Inference Engines,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00037,False,False,False
+RobOT: Robustness-Oriented Testing for Deep Learning Systems,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00038,False,False,False
+Scalable Quantitative Verification For Deep Neural Networks,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00039,False,False,True
+Traceability Transformed: Generating more Accurate Links with Pre-Trained BERT Models,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00040,False,False,False
+Studying the Usage of Text-To-Text Transfer Transformer to Support Code-Related Tasks,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00041,False,False,False
+Operation is the hardest teacher: estimating DNN accuracy looking for mispredictions,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00042,False,False,False
+AutoTrainer: An Automatic DNN Training Problem Detection and Repair System,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00043,False,False,False
+Self-Checking Deep Neural Networks in Deployment,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00044,False,False,False
+Measuring Discrimination to Boost Comparative Testing for Multiple Deep Learning Models,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00045,False,False,False
+Prioritizing Test Inputs for Deep Neural Networks via Mutation Analysis,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00046,False,False,False
+Testing Machine Translation via Referential Transparency,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00047,False,False,False
+Automatic Web Testing Using Curiosity-Driven Reinforcement Learning,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00048,False,False,False
+Evaluating SZZ Implementations Through a Developer-informed Oracle,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00049,False,False,False
+Early Life Cycle Software Defect Prediction: Why? How?,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00050,False,False,False
+IoT Bugs and Development Challenges,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00051,False,False,True
+How Developers Optimize Virtual Reality Applications: A Study of Optimization Commits in Open Source Unity Projects,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00052,False,False,False
+"Do this! Do that!, And nothing will happen: Do specifications lead to securely stored passwords?",https://dl.acm.org/doi/10.1109/ICSE43902.2021.00053,False,False,False
+Why Don't Developers Detect Improper Input Validation?': DROP TABLE Papers,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00054,True,False,True
+The Mind Is a Powerful Place: How Showing Code Comprehensibility Metrics Influences Code Understanding,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00055,False,False,False
+Program Comprehension and Code Complexity Metrics: An fMRI Study,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00056,True,False,True
+Do you really code?: Designing and Evaluating Screening Questions for Online Surveys with Programmers,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00057,False,False,False
+How Gamification Affects Software Developers: Cautionary Evidence from a Natural Experiment on GitHub,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00058,False,False,False
+IdBench: Evaluating Semantic Representations of Identifier Names in Source Code,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00059,False,False,False
+A Context-based Automated Approach for Method Name Consistency Checking and Suggestion,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00060,False,False,False
+On the Naming of Methods: A Survey of Professional Developers,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00061,True,False,True
+"Relating Reading, Visualization, and Coding for New Programmers: A Neuroimaging Study",https://dl.acm.org/doi/10.1109/ICSE43902.2021.00062,False,False,False
+A Case Study of Onboarding in Software Teams: Tasks and Strategies,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00063,True,False,True
+How Was Your Weekend?: Software Development Teams Working From Home During COVID-19,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00064,True,False,True
+flack: Counterexample-Guided Fault Localization for Alloy Models,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00065,True,False,True
+Improving Fault Localization by Integrating Value and Predicate Based Causal Inference Techniques,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00066,True,False,True
+Fault Localization with Code Coverage Representation Learning,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00067,False,False,False
+An Empirical Study on Deployment Faults of Deep Learning Based Mobile Applications,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00068,False,False,False
+Extracting Concise Bug-Fixing Patches from Human-Written Patches in Version Control Systems,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00069,False,False,False
+Input Algebras,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00070,True,False,True
+Fuzzing Symbolic Expressions,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00071,False,False,False
+Growing A Test Corpus with Bonsai Fuzzing,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00072,False,False,False
+We'll Fix It in Post: What Do Bug Fixes in Video Game Update Notes Tell Us?,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00073,False,False,False
+guigan: Learning to Generate GUI Designs Using Generative Adversarial Networks,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00074,False,False,False
+Don't Do That!: Hunting Down Visual Design Smells in Complex UIs against Design Guidelines,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00075,False,False,False
+"Same File, Different Changes: The Potential of Meta-Maintenance on GitHub",https://dl.acm.org/doi/10.1109/ICSE43902.2021.00076,True,False,True
+Can Program Synthesis be Used to Learn Merge Conflict Resolutions?: An Empirical Analysis,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00077,False,False,False
+Abacus: Precise Side-Channel Analysis,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00078,False,False,True
+Data-Driven Synthesis of Provably Sound Side Channel Analyses,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00079,False,False,False
+IMGDroid: Detecting Image Loading Defects in Android Applications,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00080,True,False,True
+Fast Parametric Model Checking through Model Fragmentation,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00081,False,False,False
+Trace-Checking CPS Properties: Bridging the Cyber-Physical Gap,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00082,True,False,True
+Centris: A Precise and Scalable Approach for Identifying Modified Open-Source Software Reuse,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00083,False,False,False
+Interpretation-enabled Software Reuse Detection Based on a Multi-Level Birthmark Model,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00084,False,False,False
+Fast Outage Analysis of Large-scale Production Clouds with Service Correlation Mining,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00085,False,False,False
+MuDelta: Delta-Oriented Mutation Testing at Commit Time,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00086,False,False,False
+Does mutation testing improve testing practices?,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00087,False,False,False
+Identifying Key Features from App User Reviews,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00088,False,False,False
+CHAMP: Characterizing Undesired App Behaviors from User Comments based on Market Policies,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00089,False,False,False
+Prioritize Crowdsourced Test Reports via Deep Screenshot Understanding,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00090,False,False,False
+It Takes Two to Tango: Combining Visual and Textual Information for Detecting Duplicate Video-Based Bug Reports,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00091,False,False,True
+Automatically Matching Bug Reports With Related App Reviews,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00092,False,False,False
+What Makes a Great Maintainer of Open Source Projects?,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00093,False,False,False
+Representation of Developer Expertise in Open Source Software,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00094,True,False,True
+Extracting Rationale for Open Source Software Development Decisions: A Study of Python Email Archives,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00095,False,False,False
+Leaving My Fingerprints: Motivations and Challenges of Contributing to OSS for Social Good,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00096,False,False,False
+"Onboarding vs. Diversity, Productivity, and Quality: Empirical Study of the OpenStack Ecosystem",https://dl.acm.org/doi/10.1109/ICSE43902.2021.00097,True,False,True
+The Shifting Sands of Motivation: Revisiting What Drives Contributors in Open Source,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00098,False,False,False
+White-Box Performance-Influence Models: A Profiling and Learning Approach,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00099,True,False,True
+White-Box Analysis over Machine Learning: Modeling Performance of Configurable Systems,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00100,False,False,False
+An Empirical Assessment of Global COVID-19 Contact Tracing Applications,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00101,True,False,True
+Sustainable Solving: Reducing The Memory Footprint of IFDS-Based Data Flow Analyses Using Intelligent Garbage Collection,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00102,False,False,False
+Synthesizing Object State Transformers for Dynamic Software Updates,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00103,False,False,True
+Fast and Precise On-the-fly Patch Validation for All,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00104,False,False,False
+Bounded Exhaustive Search of Alloy Specification Repairs,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00105,True,False,True
+Shipwright: A Human-in-the-Loop System for Dockerfile Repair,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00106,True,False,True
+CURE: Code-Aware Neural Machine Translation for Automatic Program Repair,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00107,False,False,False
+A Differential Testing Approach for Evaluating Abstract Syntax Tree Mapping Algorithms,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00108,False,False,False
+InferCode: Self-Supervised Learning of Code Representations by Predicting Subtrees,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00109,False,False,False
+Efficient Compiler Autotuning via Bayesian Optimization,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00110,False,False,False
+TransRegex: Multi-modal Regular Expression Synthesis by Generate-and-Repair,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00111,False,False,False
+EvoSpex: An Evolutionary Algorithm for Learning Postconditions,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00112,False,False,True
+"Interface Compliance of Inline Assembly: Automatically Check, Patch and Refine",https://dl.acm.org/doi/10.1109/ICSE43902.2021.00113,True,False,True
+Enabling Software Resilience in GPGPU Applications via Partial Thread Protection,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00114,False,False,False
+Automatic Extraction of Opinion-based Q&A from Online Developer Chats,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00115,False,False,False
+Automated Query Reformulation for Efficient Search based on Query Logs From Stack Overflow,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00116,False,False,False
+Automatic Solution Summarization for Crash Bugs,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00117,False,False,False
+Supporting Quality Assurance with Automated Process-Centric Quality Constraints Checking,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00118,False,False,False
+Understanding Bounding Functions in Safety-Critical UAV Software,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00119,False,False,False
+Enhancing Genetic Improvement of Software with Regression Test Selection,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00120,True,False,True
+Containing Malicious Package Updates in npm with a Lightweight Permission System,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00121,False,False,False
+Too Quiet in the Library: An Empirical Study of Security Updates in Android Apps' Native Code,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00122,True,False,True
+"If It's Not Secure, It Should Not Compile: Preventing DOM-Based XSS in Large-Scale Web Development with API Hardening",https://dl.acm.org/doi/10.1109/ICSE43902.2021.00123,False,False,False
+Why Security Defects Go Unnoticed during Code Reviews?: A Case-Control Study of the Chromium OS Project,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00124,True,False,True
+Technical Leverage in a Software Ecosystem: Development Opportunities and Security Risks,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00125,False,False,False
+RAICC: Revealing Atypical Inter-Component Communication in Android Apps,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00126,True,False,True
+Smart Contract Security: a Practitioners' Perspective,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00127,True,False,True
+AID: An automated detector for gender-inclusivity bugs in OSS project pages,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00128,False,False,False
+"""Ignorance and Prejudice"" in Software Fairness",https://dl.acm.org/doi/10.1109/ICSE43902.2021.00129,False,False,False
+Semi-supervised Log-based Anomaly Detection via Probabilistic Label Estimation,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00130,True,False,True
+DeepLV: Suggesting Log Levels Using Ordinal Based Neural Networks,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00131,False,False,False
+How to Identify Boundary Conditions with Contrasty Metric?,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00132,False,False,False
+Using Domain-specific Corpora for Improved Handling of Ambiguity in Requirements,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00133,True,False,True
+On Indirectly Dependent Documentation in the Context of Code Evolution: A Study,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00134,True,False,True
+CodeShovel: Constructing Method-Level Source Code Histories,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00135,True,False,True
+Evaluating Unit Testing Practices in R Packages,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00136,False,False,False
+Data-Oriented Differential Testing of Object-Relational Mapping Systems,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00137,True,False,True
+Automatic Unit Test Generation for Machine Learning Libraries: How Far Are We?,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00138,False,False,False
+Layout and Image Recognition Driving Cross-Platform Automated Mobile Testing,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00139,False,False,False
+FlakeFlagger: Predicting Flakiness Without Rerunning Tests,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00140,True,False,True
+An Empirical Analysis of UI-based Flaky Tests,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00141,True,False,True
+GenTree: Using Decision Trees to Learn Interactions for Configurable Software,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00142,True,False,True
+Semantic Web Accessibility Testing via Hierarchical Visual Analysis,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00143,False,False,False
+Restoring Execution Environments of Jupyter Notebooks,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00144,False,False,False
+PyART: Python API Recommendation in Real-Time,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00145,False,False,True
+PyCG: Practical Call Graph Generation in Python,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00146,True,False,True
+Seamless Variability Management With the Virtual Platform,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00147,False,False,False
+"Fine with ""1234""?: An Analysis of SMS One-Time Password Randomness in Android Apps",https://dl.acm.org/doi/10.1109/ICSE43902.2021.00148,False,False,False
+App's Auto-Login Function Security Testing via Android OS-Level Virtualization,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00149,False,False,False
+ATVHunter: Reliable Version Detection of Third-Party Libraries for Vulnerability Identification in Android Applications,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00150,False,False,False
+JUSTGen: Effective Test Generation for Unspecified JNI Behaviors on JVMs,https://dl.acm.org/doi/10.1109/ICSE43902.2021.00151,True,False,True

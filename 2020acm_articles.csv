@@ -1,0 +1,130 @@
+Title,DOI,Artifact Available,Artifact Reusable,Artifact Functional
+Learning-to-rank vs ranking-to-learn: strategies for regression testing in continuous integration,https://dl.acm.org/doi/10.1145/3377811.3380369,False,False,False
+A cost-efficient approach to building in continuous integration,https://dl.acm.org/doi/10.1145/3377811.3380437,False,False,False
+Practical fault detection in puppet programs,https://dl.acm.org/doi/10.1145/3377811.3380384,True,True,False
+"Learning from, understanding, and supporting DevOps artifacts for docker",https://dl.acm.org/doi/10.1145/3377811.3380406,True,True,False
+Adapting requirements models to varying environments,https://dl.acm.org/doi/10.1145/3377811.3380927,False,False,False
+Comparing formal tools for system design: a judgment study,https://dl.acm.org/doi/10.1145/3377811.3380373,False,False,False
+Debugging inputs,https://dl.acm.org/doi/10.1145/3377811.3380329,True,True,False
+Causal testing: understanding defects' root causes,https://dl.acm.org/doi/10.1145/3377811.3380377,True,True,False
+Impact analysis of cross-project bugs on software ecosystems,https://dl.acm.org/doi/10.1145/3377811.3380442,False,False,False
+Taming behavioral backward incompatibilities via cross-project testing and analysis,https://dl.acm.org/doi/10.1145/3377811.3380436,False,False,False
+Watchman: monitoring dependency conflicts for Python library ecosystem,https://dl.acm.org/doi/10.1145/3377811.3380426,True,True,False
+One size does not fit all: a grounded theory and online survey study of developer preferences for security warning types,https://dl.acm.org/doi/10.1145/3377811.3380387,False,False,False
+Schrödinger's security: opening the box on app developers' security rationale,https://dl.acm.org/doi/10.1145/3377811.3380394,False,False,False
+How software practitioners use informal local meetups to share software engineering knowledge,https://dl.acm.org/doi/10.1145/3377811.3380333,False,False,False
+Predicting developers' negative feelings about code review,https://dl.acm.org/doi/10.1145/3377811.3380414,False,False,False
+Near-duplicate detection in web app model inference,https://dl.acm.org/doi/10.1145/3377811.3380416,True,False,False
+Extracting taint specifications for JavaScript libraries,https://dl.acm.org/doi/10.1145/3377811.3380390,False,False,False
+SLACC: simion-based language agnostic code clones,https://dl.acm.org/doi/10.1145/3377811.3380407,False,True,False
+Finding client-side business flow tampering vulnerabilities,https://dl.acm.org/doi/10.1145/3377811.3380355,False,False,False
+Securing unsafe rust programs with XRust,https://dl.acm.org/doi/10.1145/3377811.3380325,False,True,False
+Is rust used safely by software developers?,https://dl.acm.org/doi/10.1145/3377811.3380413,False,False,False
+Burn after reading: a shadow stack with microsecond-level runtime rerandomization for protecting return addresses,https://dl.acm.org/doi/10.1145/3377811.3380439,True,False,False
+"SAVER: scalable, precise, and safe memory-error repair",https://dl.acm.org/doi/10.1145/3377811.3380323,True,True,False
+Revealing injection vulnerabilities by leveraging existing tests,https://dl.acm.org/doi/10.1145/3377811.3380326,True,True,False
+RoScript: a visual script driven truly non-intrusive robotic testing system for touch screen applications,https://dl.acm.org/doi/10.1145/3377811.3380431,False,False,False
+Translating video recordings of mobile app usages into replayable scenarios,https://dl.acm.org/doi/10.1145/3377811.3380328,False,False,False
+Unblind your apps: predicting natural-language labels for mobile GUI components by deep learning,https://dl.acm.org/doi/10.1145/3377811.3380327,False,False,False
+SLEMI: equivalence modulo input (EMI) based mutation of CPS models for finding compiler bugs in Simulink,https://dl.acm.org/doi/10.1145/3377811.3380381,True,True,False
+DeepBillboard: systematic physical-world testing of autonomous driving systems,https://dl.acm.org/doi/10.1145/3377811.3380422,False,False,False
+Misbehaviour prediction for autonomous driving systems,https://dl.acm.org/doi/10.1145/3377811.3380353,False,False,False
+Approximation-refinement testing of compute-intensive cyber-physical models: an approach based on system identification,https://dl.acm.org/doi/10.1145/3377811.3380370,True,True,False
+A comprehensive study of autonomous vehicle bugs,https://dl.acm.org/doi/10.1145/3377811.3380397,False,False,False
+Studying the use of Java logging utilities in the wild,https://dl.acm.org/doi/10.1145/3377811.3380408,False,False,False
+"A study on the prevalence of human values in software engineering publications, 2015 -- 2018",https://dl.acm.org/doi/10.1145/3377811.3380393,True,False,False
+Explaining pair programming session dynamics from knowledge gaps,https://dl.acm.org/doi/10.1145/3377811.3380925,False,False,False
+Engineering gender-inclusivity into software: ten teams' tales from the trenches,https://dl.acm.org/doi/10.1145/3377811.3380371,False,False,False
+How has forking changed in the last 20 years?: a study of hard forks on GitHub,https://dl.acm.org/doi/10.1145/3377811.3380412,False,False,False
+Multiple-entry testing of Android applications by constructing activity launching contexts,https://dl.acm.org/doi/10.1145/3377811.3380347,True,False,False
+ComboDroid: generating high-quality test inputs for Android apps via use case combinations,https://dl.acm.org/doi/10.1145/3377811.3380382,True,False,False
+Time-travel testing of Android apps,https://dl.acm.org/doi/10.1145/3377811.3380402,True,True,False
+HeteroRefactor: refactoring for heterogeneous computing with FPGA,https://dl.acm.org/doi/10.1145/3377811.3380340,True,False,False
+HARP: holistic analysis for refactoring Python-based analytics programs,https://dl.acm.org/doi/10.1145/3377811.3380434,False,False,False
+CC2Vec: distributed representations of code changes,https://dl.acm.org/doi/10.1145/3377811.3380361,False,False,False
+"Empirical review of automated analysis tools on 47,587 Ethereum smart contracts",https://dl.acm.org/doi/10.1145/3377811.3380364,True,True,False
+Gap between theory and practice: an empirical study of security patches in solidity,https://dl.acm.org/doi/10.1145/3377811.3380424,True,True,False
+An investigation of cross-project learning in online just-in-time software defect prediction,https://dl.acm.org/doi/10.1145/3377811.3380403,False,False,False
+Understanding the automated parameter optimization on transfer learning for cross-project defect prediction: an empirical study,https://dl.acm.org/doi/10.1145/3377811.3380360,True,False,False
+Software visualization and deep transfer learning for effective software defect prediction,https://dl.acm.org/doi/10.1145/3377811.3380389,False,False,False
+Software documentation: the practitioners' perspective,https://dl.acm.org/doi/10.1145/3377811.3380405,False,False,False
+DLFix: context-based code transformation learning for automated program repair,https://dl.acm.org/doi/10.1145/3377811.3380345,False,False,False
+On the efficiency of test suite based program repair: A Systematic Assessment of 16 Automated Repair Systems for Java Programs,https://dl.acm.org/doi/10.1145/3377811.3380338,True,True,False
+Caspar: extracting and synthesizing user stories of problems from app reviews,https://dl.acm.org/doi/10.1145/3377811.3380924,False,False,False
+Detection of hidden feature requests from massive chat messages via deep siamese network,https://dl.acm.org/doi/10.1145/3377811.3380356,True,False,False
+A tale from the trenches: cognitive biases and software development,https://dl.acm.org/doi/10.1145/3377811.3380330,False,False,False
+Recognizing developers' emotions while programming,https://dl.acm.org/doi/10.1145/3377811.3380374,True,False,False
+Neurological divide: an fMRI study of prose and code writing,https://dl.acm.org/doi/10.1145/3377811.3380348,True,True,False
+Here we go again: why is it difficult for developers to learn another programming language?,https://dl.acm.org/doi/10.1145/3377811.3380352,False,False,False
+Importance-driven deep learning system testing,https://dl.acm.org/doi/10.1145/3377811.3380391,False,False,False
+ReluDiff: differential verification of deep neural networks,https://dl.acm.org/doi/10.1145/3377811.3380337,False,True,False
+Dissector: input validation for deep learning applications by crossing-layer dissection,https://dl.acm.org/doi/10.1145/3377811.3380379,False,False,False
+Towards characterizing adversarial defects of deep learning software from the lens of uncertainty,https://dl.acm.org/doi/10.1145/3377811.3380368,False,False,False
+Gang of eight: a defect taxonomy for infrastructure as code scripts,https://dl.acm.org/doi/10.1145/3377811.3380409,True,False,False
+MemLock: memory usage guided fuzzing,https://dl.acm.org/doi/10.1145/3377811.3380396,True,True,False
+sFuzz: an efficient adaptive fuzzer for solidity smart contracts,https://dl.acm.org/doi/10.1145/3377811.3380334,False,False,False
+Targeted greybox fuzzing with static lookahead analysis,https://dl.acm.org/doi/10.1145/3377811.3380388,False,False,False
+Planning for untangling: predicting the difficulty of merge conflicts,https://dl.acm.org/doi/10.1145/3377811.3380344,False,False,False
+Conquering the extensional scalability problem for value-flow analysis frameworks,https://dl.acm.org/doi/10.1145/3377811.3380346,False,False,False
+Tailoring programs for static analysis via program transformation,https://dl.acm.org/doi/10.1145/3377811.3380343,True,False,False
+Pipelining bottom-up data flow analysis,https://dl.acm.org/doi/10.1145/3377811.3380425,False,False,False
+A novel approach to tracing safety requirements and state-based design models,https://dl.acm.org/doi/10.1145/3377811.3380332,False,False,False
+Establishing multilevel test-to-code traceability links,https://dl.acm.org/doi/10.1145/3377811.3380921,True,True,False
+Improving the effectiveness of traceability link recovery using hierarchical bayesian networks,https://dl.acm.org/doi/10.1145/3377811.3380418,False,False,False
+How Android developers handle evolution-induced API compatibility issues: a large-scale study,https://dl.acm.org/doi/10.1145/3377811.3380357,False,False,False
+An empirical study on API parameter rules,https://dl.acm.org/doi/10.1145/3377811.3380922,False,False,False
+When APIs are intentionally bypassed: an exploratory study of API workarounds,https://dl.acm.org/doi/10.1145/3377811.3380433,False,False,False
+"Demystify official API usage directives with crowdsourced API misuse scenarios, erroneous code examples and patches",https://dl.acm.org/doi/10.1145/3377811.3380430,False,False,False
+Simulee: detecting CUDA synchronization bugs via memory-access modeling,https://dl.acm.org/doi/10.1145/3377811.3380358,False,False,False
+White-box fairness testing through adversarial sampling,https://dl.acm.org/doi/10.1145/3377811.3380331,False,False,False
+Structure-invariant testing for machine translation,https://dl.acm.org/doi/10.1145/3377811.3380339,False,False,False
+Automatic testing and improvement of machine translation,https://dl.acm.org/doi/10.1145/3377811.3380420,False,False,False
+TRADER: trace divergence analysis and embedding regulation for debugging recurrent neural networks,https://dl.acm.org/doi/10.1145/3377811.3380423,True,True,False
+Typestate-guided fuzzer for discovering use-after-free vulnerabilities,https://dl.acm.org/doi/10.1145/3377811.3380386,False,False,False
+JVM fuzzing for JIT-induced side-channel detection,https://dl.acm.org/doi/10.1145/3377811.3380432,False,False,False
+Ankou: guiding grey-box fuzzing towards combinatorial difference,https://dl.acm.org/doi/10.1145/3377811.3380421,True,True,False
+BCFA: bespoke control flow analysis for CFA at scale,https://dl.acm.org/doi/10.1145/3377811.3380435,False,False,False
+On the recall of static call graph construction in practice,https://dl.acm.org/doi/10.1145/3377811.3380441,True,True,False
+Heaps'n leaks: how heap snapshots improve Android taint analysis,https://dl.acm.org/doi/10.1145/3377811.3380438,True,True,False
+Big code != big vocabulary: open-vocabulary models for source code,https://dl.acm.org/doi/10.1145/3377811.3380342,True,True,False
+Improving data scientist efficiency with provenance,https://dl.acm.org/doi/10.1145/3377811.3380366,True,True,False
+Managing data constraints in database-backed web applications,https://dl.acm.org/doi/10.1145/3377811.3380375,True,True,False
+Taxonomy of real faults in deep learning systems,https://dl.acm.org/doi/10.1145/3377811.3380395,True,True,False
+Testing DNN image classifiers for confusion & bias errors,https://dl.acm.org/doi/10.1145/3377811.3380400,True,True,False
+Repairing deep neural networks: fix patterns and challenges,https://dl.acm.org/doi/10.1145/3377811.3380378,True,True,False
+Fuzz testing based data augmentation to improve robustness of deep neural networks,https://dl.acm.org/doi/10.1145/3377811.3380415,False,False,False
+An empirical study on program failures of deep learning jobs,https://dl.acm.org/doi/10.1145/3377811.3380362,False,False,False
+Primers or reminders?: the effects of existing review comments on code review,https://dl.acm.org/doi/10.1145/3377811.3380385,True,True,False
+"Mitigating turnover with code review recommendation: balancing expertise, workload, and knowledge distribution",https://dl.acm.org/doi/10.1145/3377811.3380335,True,False,False
+How do companies collaborate in open source ecosystems?: an empirical study of OpenStack,https://dl.acm.org/doi/10.1145/3377811.3380376,False,False,False
+How to not get rich: an empirical study of donations in open source,https://dl.acm.org/doi/10.1145/3377811.3380410,False,True,False
+Scaling open source communities: an empirical study of the Linux kernel,https://dl.acm.org/doi/10.1145/3377811.3380920,False,False,False
+SpecuSym: speculative symbolic execution for cache timing leak detection,https://dl.acm.org/doi/10.1145/3377811.3380428,False,False,False
+Symbolic verification of message passing interface programs,https://dl.acm.org/doi/10.1145/3377811.3380419,True,True,False
+Efficient generation of error-inducing floating-point inputs via symbolic execution,https://dl.acm.org/doi/10.1145/3377811.3380359,True,True,False
+HyDiff: hybrid differential software analysis,https://dl.acm.org/doi/10.1145/3377811.3380363,True,True,False
+Seenomaly: vision-based linting of GUI animation effects against design-don't guidelines,https://dl.acm.org/doi/10.1145/3377811.3380411,False,False,False
+Low-overhead deadlock prediction,https://dl.acm.org/doi/10.1145/3377811.3380367,False,False,False
+An empirical assessment of security risks of global Android banking apps,https://dl.acm.org/doi/10.1145/3377811.3380417,False,False,False
+"Accessibility issues in Android apps: state of affairs, sentiments, and ways forward",https://dl.acm.org/doi/10.1145/3377811.3380392,False,False,False
+Collaborative bug finding for Android apps,https://dl.acm.org/doi/10.1145/3377811.3380349,False,False,False
+POSIT: simultaneously tagging natural and programming languages,https://dl.acm.org/doi/10.1145/3377811.3380440,True,False,False
+CPC: automatically classifying and propagating natural language comments via program analysis,https://dl.acm.org/doi/10.1145/3377811.3380427,True,False,False
+Suggesting natural method names to check name consistencies,https://dl.acm.org/doi/10.1145/3377811.3380926,False,False,False
+Retrieval-based neural source code summarization,https://dl.acm.org/doi/10.1145/3377811.3380383,False,False,False
+On learning meaningful assert statements for unit test cases,https://dl.acm.org/doi/10.1145/3377811.3380429,False,False,False
+Quickly generating diverse valid test inputs with reinforcement learning,https://dl.acm.org/doi/10.1145/3377811.3380399,True,True,False
+An evidence-based inquiry into the use of grey literature in software engineering,https://dl.acm.org/doi/10.1145/3377811.3380336,False,False,False
+Towards the use of the readily available tests from the release pipeline as performance tests: are we there yet?,https://dl.acm.org/doi/10.1145/3377811.3380351,False,False,False
+Verifying object construction,https://dl.acm.org/doi/10.1145/3377811.3380341,True,False,False
+Automatically testing string solvers,https://dl.acm.org/doi/10.1145/3377811.3380398,True,True,False
+A study on the lifecycle of flaky tests,https://dl.acm.org/doi/10.1145/3377811.3381749,False,False,False
+Testing file system implementations on layered models,https://dl.acm.org/doi/10.1145/3377811.3380350,True,False,False
+Co-evolving code with evolving metamodels,https://dl.acm.org/doi/10.1145/3377811.3380324,False,False,False
+Lazy product discovery in huge configuration spaces,https://dl.acm.org/doi/10.1145/3377811.3380372,True,True,False
+Reducing run-time adaptation space via analysis of possible utility bounds,https://dl.acm.org/doi/10.1145/3377811.3380365,False,False,False
+Context-aware in-process crowdworker recommendation,https://dl.acm.org/doi/10.1145/3377811.3380380,False,False,False
+A large-scale empirical study on vulnerability distribution within projects and the lessons learned,https://dl.acm.org/doi/10.1145/3377811.3380923,False,False,False
+Unsuccessful story about few shot malware family classification and siamese network to the rescue,https://dl.acm.org/doi/10.1145/3377811.3380354,False,False,False
+How does misconfiguration of analytic services compromise mobile privacy?,https://dl.acm.org/doi/10.1145/3377811.3380401,True,False,False
+Interpreting cloud computer vision pain-points: a mining study of stack overflow,https://dl.acm.org/doi/10.1145/3377811.3380404,False,False,False

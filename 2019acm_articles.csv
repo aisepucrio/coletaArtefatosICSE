@@ -1,0 +1,110 @@
+Title,DOI,Artifact Available,Artifact Reusable,Artifact Functional
+Learning to spot and refactor inconsistent method names,https://dl.acm.org/doi/10.1109/ICSE.2019.00019,False,False,False
+Harnessing evolution for multi-hunk program repair,https://dl.acm.org/doi/10.1109/ICSE.2019.00020,False,False,False
+On learning meaningful code changes via neural machine translation,https://dl.acm.org/doi/10.1109/ICSE.2019.00021,False,False,False
+Natural software revisited,https://dl.acm.org/doi/10.1109/ICSE.2019.00022,False,False,False
+Towards automating precision studies of clone detectors,https://dl.acm.org/doi/10.1109/ICSE.2019.00023,False,False,False
+Leopard: identifying vulnerable code for vulnerability assessment through program metrics,https://dl.acm.org/doi/10.1109/ICSE.2019.00024,False,False,False
+Smoke: scalable path-sensitive memory leak detection for millions of lines of code,https://dl.acm.org/doi/10.1109/ICSE.2019.00025,False,False,False
+Reasonably-most-general clients for JavaScript library analysis,https://dl.acm.org/doi/10.1109/ICSE.2019.00026,False,False,False
+Resource-aware program analysis via online abstraction coarsening,https://dl.acm.org/doi/10.1109/ICSE.2019.00027,False,False,False
+Automated reporting of anti-patterns and decay in continuous integration,https://dl.acm.org/doi/10.1109/ICSE.2019.00028,False,False,False
+A system identification based Oracle for control-CPS software fault localization,https://dl.acm.org/doi/10.1109/ICSE.2019.00029,False,False,False
+ReCDroid: automatically reproducing Android application crashes from bug reports,https://dl.acm.org/doi/10.1109/ICSE.2019.00030,False,False,False
+Mining historical test logs to predict bugs and localize faults in the test logs,https://dl.acm.org/doi/10.1109/ICSE.2019.00031,False,False,False
+Dlfinder: characterizing and detecting duplicate logging code smells,https://dl.acm.org/doi/10.1109/ICSE.2019.00032,False,False,False
+The seven sins: security smells in infrastructure as code scripts,https://dl.acm.org/doi/10.1109/ICSE.2019.00033,False,False,False
+DifFuzz: differential fuzzing for side-channel analysis,https://dl.acm.org/doi/10.1109/ICSE.2019.00034,False,False,False
+Automatically generating precise Oracles from structured natural language specifications,https://dl.acm.org/doi/10.1109/ICSE.2019.00035,False,False,False
+The product backlog,https://dl.acm.org/doi/10.1109/ICSE.2019.00036,False,False,False
+Easy modelling and verification of unpredictable and preemptive interrupt-driven systems,https://dl.acm.org/doi/10.1109/ICSE.2019.00037,False,False,False
+Towards understanding and reasoning about Android interoperations,https://dl.acm.org/doi/10.1109/ICSE.2019.00038,False,False,False
+Zero-overhead path prediction with progressive symbolic execution,https://dl.acm.org/doi/10.1109/ICSE.2019.00039,False,False,False
+Mimic: UI compatibility testing system for Android apps,https://dl.acm.org/doi/10.1109/ICSE.2019.00040,False,False,False
+IconIntent: automatic identification of sensitive UI widgets based on icon classification for Android apps,https://dl.acm.org/doi/10.1109/ICSE.2019.00041,False,False,False
+Practical GUI testing of Android applications via model abstraction and refinement,https://dl.acm.org/doi/10.1109/ICSE.2019.00042,False,False,False
+AutoTap: synthesizing and repairing trigger-action programs using LTL properties,https://dl.acm.org/doi/10.1109/ICSE.2019.00043,False,False,False
+Active inductive logic programming for code search,https://dl.acm.org/doi/10.1109/ICSE.2019.00044,False,False,False
+NL2Type: inferring JavaScript function types from natural language information,https://dl.acm.org/doi/10.1109/ICSE.2019.00045,False,False,False
+Analyzing and supporting adaptation of online code examples,https://dl.acm.org/doi/10.1109/ICSE.2019.00046,False,False,False
+DockerizeMe: automatic inference of environment dependencies for python code snippets,https://dl.acm.org/doi/10.1109/ICSE.2019.00047,False,False,False
+BugSwarm: mining and continuously growing a dataset of reproducible failures and fixes,https://dl.acm.org/doi/10.1109/ICSE.2019.00048,False,False,False
+ActionNet: vision-based workflow action recognition from programming screencasts,https://dl.acm.org/doi/10.1109/ICSE.2019.00049,False,False,False
+How C++ developers use immutability declarations: an empirical study,https://dl.acm.org/doi/10.1109/ICSE.2019.00050,False,False,False
+Latent patterns in activities: a field study of how developers manage context,https://dl.acm.org/doi/10.1109/ICSE.2019.00051,False,False,False
+Developer reading behavior while summarizing Java methods: size and context matters,https://dl.acm.org/doi/10.1109/ICSE.2019.00052,False,False,False
+Distilling neural representations of data structure manipulation using fMRI and fNIRS,https://dl.acm.org/doi/10.1109/ICSE.2019.00053,False,False,False
+FastLane: test minimization for rapidly deployed large-scale online services,https://dl.acm.org/doi/10.1109/ICSE.2019.00054,False,False,False
+Scalable approaches for test suite reduction,https://dl.acm.org/doi/10.1109/ICSE.2019.00055,False,False,False
+A framework for checking regression test selection tools,https://dl.acm.org/doi/10.1109/ICSE.2019.00056,False,False,False
+Supporting analysts by dynamic extraction and classification of requirements-related knowledge,https://dl.acm.org/doi/10.1109/ICSE.2019.00057,False,False,False
+Analysis and detection of information types of open source software issue discussions,https://dl.acm.org/doi/10.1109/ICSE.2019.00058,False,False,False
+Do developers discover new tools on the toilet?,https://dl.acm.org/doi/10.1109/ICSE.2019.00059,False,False,False
+Tool choice matters: JavaScript quality assurance tools and usage outcomes in GitHub projects,https://dl.acm.org/doi/10.1109/ICSE.2019.00060,False,False,False
+Hunting for bugs in code coverage tools via randomized differential testing,https://dl.acm.org/doi/10.1109/ICSE.2019.00061,False,False,False
+Rotten green tests,https://dl.acm.org/doi/10.1109/ICSE.2019.00062,False,False,False
+VFix: value-flow-guided precise program repair for null pointer dereferences,https://dl.acm.org/doi/10.1109/ICSE.2019.00063,False,False,False
+On reliability of patch correctness assessment,https://dl.acm.org/doi/10.1109/ICSE.2019.00064,False,False,False
+How reliable is the crowdsourced knowledge of security implementation?,https://dl.acm.org/doi/10.1109/ICSE.2019.00065,False,False,False
+Pattern-based mining of opinions in Q&A websites,https://dl.acm.org/doi/10.1109/ICSE.2019.00066,False,False,False
+Detection and repair of architectural inconsistencies in Java,https://dl.acm.org/doi/10.1109/ICSE.2019.00067,False,False,False
+Could I have a stack trace to examine the dependency conflict issue?,https://dl.acm.org/doi/10.1109/ICSE.2019.00068,False,False,False
+Investigating the impact of multiple dependency structures on software defects,https://dl.acm.org/doi/10.1109/ICSE.2019.00069,False,False,False
+StoryDroid: automated generation of storyboard for Android apps,https://dl.acm.org/doi/10.1109/ICSE.2019.00070,False,False,False
+Statistical algorithmic profiling for randomized approximate programs,https://dl.acm.org/doi/10.1109/ICSE.2019.00071,False,False,False
+Safe automated refactoring for intelligent parallelization of Java 8 streams,https://dl.acm.org/doi/10.1109/ICSE.2019.00072,False,False,False
+Detecting atomicity violations for event-driven Node.js applications,https://dl.acm.org/doi/10.1109/ICSE.2019.00073,False,False,False
+Parallel refinement for multi-threaded program verification,https://dl.acm.org/doi/10.1109/ICSE.2019.00074,False,False,False
+Mining software defects: should we consider affected releases?,https://dl.acm.org/doi/10.1109/ICSE.2019.00075,False,False,False
+Class imbalance evolution and verification latency in just-in-time software defect prediction,https://dl.acm.org/doi/10.1109/ICSE.2019.00076,False,False,False
+FLOSS participants' perceptions about gender and inclusiveness: a survey,https://dl.acm.org/doi/10.1109/ICSE.2019.00077,False,False,False
+Going farther together: the impact of social capital on sustained participation in open source,https://dl.acm.org/doi/10.1109/ICSE.2019.00078,False,False,False
+Investigating the effects of gender bias on GitHub,https://dl.acm.org/doi/10.1109/ICSE.2019.00079,False,False,False
+SLF: fuzzing without valid seed inputs,https://dl.acm.org/doi/10.1109/ICSE.2019.00080,False,False,False
+Superion: grammar-aware greybox fuzzing,https://dl.acm.org/doi/10.1109/ICSE.2019.00081,False,False,False
+Grey-box concolic testing on binary code,https://dl.acm.org/doi/10.1109/ICSE.2019.00082,False,False,False
+RESTler: stateful REST API fuzzing,https://dl.acm.org/doi/10.1109/ICSE.2019.00083,False,False,False
+Training binary classifiers as data structure invariants,https://dl.acm.org/doi/10.1109/ICSE.2019.00084,False,False,False
+Graph embedding based familial analysis of Android malware using unsupervised learning,https://dl.acm.org/doi/10.1109/ICSE.2019.00085,False,False,False
+A novel neural source code representation based on abstract syntax tree,https://dl.acm.org/doi/10.1109/ICSE.2019.00086,False,False,False
+A neural model for generating natural language summaries of program subroutines,https://dl.acm.org/doi/10.1109/ICSE.2019.00087,False,False,False
+The list is the process: reliable pre-integration tracking of commits on mailing lists,https://dl.acm.org/doi/10.1109/ICSE.2019.00088,False,False,False
+"Graph-based mining of in-the-wild, fine-grained, semantic code change patterns",https://dl.acm.org/doi/10.1109/ICSE.2019.00089,False,False,False
+Intention-based integration of software variants,https://dl.acm.org/doi/10.1109/ICSE.2019.00090,False,False,False
+Supporting the statistical analysis of variability models,https://dl.acm.org/doi/10.1109/ICSE.2019.00091,False,False,False
+Multifaceted automated analyses for variability-intensive embedded systems,https://dl.acm.org/doi/10.1109/ICSE.2019.00092,False,False,False
+Exposing library API misuses via mutation analysis,https://dl.acm.org/doi/10.1109/ICSE.2019.00093,False,False,False
+Pivot: learning API-device correlations to facilitate Android compatibility issue detection,https://dl.acm.org/doi/10.1109/ICSE.2019.00094,False,False,False
+SafeCheck: safety enhancement of Java unsafe API,https://dl.acm.org/doi/10.1109/ICSE.2019.00095,False,False,False
+CTRAS: crowdsourced test report aggregation and summarization,https://dl.acm.org/doi/10.1109/ICSE.2019.00096,False,False,False
+iSENSE: completion-aware crowdtesting management,https://dl.acm.org/doi/10.1109/ICSE.2019.00097,False,False,False
+How practitioners perceive coding proficiency,https://dl.acm.org/doi/10.1109/ICSE.2019.00098,False,False,False
+Socio-technical work-rate increase associates with changes in work patterns in online projects,https://dl.acm.org/doi/10.1109/ICSE.2019.00099,False,False,False
+Why do episodic volunteers stay in FLOSS communities?,https://dl.acm.org/doi/10.1109/ICSE.2019.00100,False,False,False
+When code completion fails: a case study on real-world completions,https://dl.acm.org/doi/10.1109/ICSE.2019.00101,False,False,False
+Interactive production performance feedback in the IDE,https://dl.acm.org/doi/10.1109/ICSE.2019.00102,False,False,False
+Redundant loads: a software inefficiency indicator,https://dl.acm.org/doi/10.1109/ICSE.2019.00103,False,False,False
+View-centric performance optimization for database-backed web applications,https://dl.acm.org/doi/10.1109/ICSE.2019.00104,False,False,False
+Adjust: runtime mitigation of resource abusing third-party online ads,https://dl.acm.org/doi/10.1109/ICSE.2019.00105,False,False,False
+Symbolic repairs for GR(1) specifications,https://dl.acm.org/doi/10.1109/ICSE.2019.00106,False,False,False
+CRADLE: Cross-backend validation to Detect and Localize bugs in Deep learning libraries,https://dl.acm.org/doi/10.1109/ICSE.2019.00107,False,False,False
+Guiding deep learning system testing using surprise adequacy,https://dl.acm.org/doi/10.1109/ICSE.2019.00108,False,False,False
+FOCUS: a recommender system for mining API function calls and usage patterns,https://dl.acm.org/doi/10.1109/ICSE.2019.00109,False,False,False
+Test-driven code review: an empirical study,https://dl.acm.org/doi/10.1109/ICSE.2019.00110,False,False,False
+Why does code review work for open source software communities?,https://dl.acm.org/doi/10.1109/ICSE.2019.00111,False,False,False
+Distance-based sampling of software configuration spaces,https://dl.acm.org/doi/10.1109/ICSE.2019.00112,False,False,False
+DeepPerf: performance prediction for configurable software with deep sparse neural network,https://dl.acm.org/doi/10.1109/ICSE.2019.00113,False,False,False
+GreenBundle: an empirical study on the energy impact of bundled processing,https://dl.acm.org/doi/10.1109/ICSE.2019.00114,False,False,False
+Search-based energy testing of Android,https://dl.acm.org/doi/10.1109/ICSE.2019.00115,False,False,False
+Global optimization of numerical programs via prioritized stochastic algebraic transformations,https://dl.acm.org/doi/10.1109/ICSE.2019.00116,False,False,False
+Type migration in ultra-large-scale codebases,https://dl.acm.org/doi/10.1109/ICSE.2019.00117,False,False,False
+Dynamic slicing for Android,https://dl.acm.org/doi/10.1109/ICSE.2019.00118,False,False,False
+Recovering variable names for minified code with usage contexts,https://dl.acm.org/doi/10.1109/ICSE.2019.00119,False,False,False
+"Gigahorse: thorough, declarative decompilation of smart contracts",https://dl.acm.org/doi/10.1109/ICSE.2019.00120,False,False,False
+Probabilistic disassembly,https://dl.acm.org/doi/10.1109/ICSE.2019.00121,False,False,False
+Software documentation issues unveiled,https://dl.acm.org/doi/10.1109/ICSE.2019.00122,False,False,False
+"9.6 million links in source code comments: purpose, evolution, and decay",https://dl.acm.org/doi/10.1109/ICSE.2019.00123,False,False,False
+Leveraging artifact trees to evolve and reuse safety cases,https://dl.acm.org/doi/10.1109/ICSE.2019.00124,False,False,False
+Detecting incorrect build rules,https://dl.acm.org/doi/10.1109/ICSE.2019.00125,False,False,False
+Adversarial sample detection for deep neural network through model mutation testing,https://dl.acm.org/doi/10.1109/ICSE.2019.00126,False,False,False
+Deep differential testing of JVM implementations,https://dl.acm.org/doi/10.1109/ICSE.2019.00127,False,False,False

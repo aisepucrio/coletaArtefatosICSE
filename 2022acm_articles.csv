@@ -1,0 +1,31 @@
+Title,DOI,Artifact Available,Artifact Reusable,Artifact Functional
+μAFL: non-intrusive feedback-driven fuzzing for microcontroller firmware,https://dl.acm.org/doi/10.1145/3510003.3510208,False,False,True
+A grounded theory based approach to characterize software attack surfaces,https://dl.acm.org/doi/10.1145/3510003.3510210,False,False,False
+A grounded theory of coordination in remote-first and hybrid software teams,https://dl.acm.org/doi/10.1145/3510003.3510105,False,False,False
+A scalable t-wise coverage estimator,https://dl.acm.org/doi/10.1145/3510003.3510218,True,True,False
+A universal data augmentation approach for fault localization,https://dl.acm.org/doi/10.1145/3510003.3510136,False,False,False
+Adaptive performance anomaly detection for online service systems via pattern sketching,https://dl.acm.org/doi/10.1145/3510003.3510085,False,False,False
+Adaptive test selection for deep neural networks,https://dl.acm.org/doi/10.1145/3510003.3510232,False,False,False
+An exploratory study of deep learning supply chain,https://dl.acm.org/doi/10.1145/3510003.3510199,False,False,False
+An exploratory study of productivity perceptions in software teams,https://dl.acm.org/doi/10.1145/3510003.3510081,False,False,False
+Analyzing user perspectives on mobile app privacy at scale,https://dl.acm.org/doi/10.1145/3510003.3510079,False,False,False
+Aper: evolution-aware runtime permission misuse detection for Android apps,https://dl.acm.org/doi/10.1145/3510003.3510074,False,False,False
+ARCLIN: automated API mention resolution for unformatted texts,https://dl.acm.org/doi/10.1145/3510003.3510158,False,False,False
+AST-trans: code summarization with efficient tree-structured attention,https://dl.acm.org/doi/10.1145/3510003.3510224,False,False,False
+Automated assertion generation via information retrieval and its integration with deep learning,https://dl.acm.org/doi/10.1145/3510003.3510149,False,False,False
+Automated detection of password leakage from public GitHub repositories,https://dl.acm.org/doi/10.1145/3510003.3510150,False,False,False
+Automated handling of anaphoric ambiguity in requirements: a multi-solution study,https://dl.acm.org/doi/10.1145/3510003.3510157,True,True,False
+Automated patching for unreproducible builds,https://dl.acm.org/doi/10.1145/3510003.3510102,False,False,False
+Automated testing of software that uses machine learning APIs,https://dl.acm.org/doi/10.1145/3510003.3510068,True,True,False
+Automatic detection of performance bugs in database systems using equivalent queries,https://dl.acm.org/doi/10.1145/3510003.3510093,True,False,True
+AutoTransform: automated code transformation to support modern code review process,https://dl.acm.org/doi/10.1145/3510003.3510067,False,False,False
+BeDivFuzz: integrating behavioral diversity into generator-based fuzzing,https://dl.acm.org/doi/10.1145/3510003.3510182,False,False,False
+Big data = big insights?: operationalising brooks' law in a massive GitHub data set,https://dl.acm.org/doi/10.1145/3510003.3510619,False,False,False
+"Bots for pull requests: the good, the bad, and the promising",https://dl.acm.org/doi/10.1145/3510003.3512765,False,False,False
+Bridging pre-trained models and downstream tasks for source code understanding,https://dl.acm.org/doi/10.1145/3510003.3510062,False,False,False
+BugListener: identifying and synthesizing bug reports from collaborative live chats,https://dl.acm.org/doi/10.1145/3510003.3510108,False,False,False
+BuildSheriff: change-aware test failure triage for continuous integration builds,https://dl.acm.org/doi/10.1145/3510003.3510132,False,False,False
+Causality in configurable software systems,https://dl.acm.org/doi/10.1145/3510003.3510200,True,True,False
+Causality-based neural network repair,https://dl.acm.org/doi/10.1145/3510003.3510080,False,False,False
+Change is the only constant: dynamic updates for workflows,https://dl.acm.org/doi/10.1145/3510003.3510065,True,True,False
+Characterizing and detecting bugs in WeChat mini-programs,https://dl.acm.org/doi/10.1145/3510003.3510114,False,False,False
