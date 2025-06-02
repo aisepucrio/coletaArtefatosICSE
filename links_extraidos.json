@@ -1,0 +1,13 @@
+[
+  {
+    "PDF": "artefato2.pdf",
+    "Links_antes_REFERENCES": [
+      "https://github.com/secure-software-engineering/SparseIDE",
+      "https://zenodo.org/records/10498325"
+    ],
+    "Links_depois_REFERENCES": [
+      "https://github.com/CodeShield-Security/SPDS.",
+      "https://github.com/soot-oss/heros."
+    ]
+  }
+]
