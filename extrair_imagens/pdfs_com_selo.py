@@ -68,4 +68,4 @@ for root, dirs, files in os.walk(pasta_principal):
                 shutil.copy(pdf_path, pasta_destino)
                 print(f'PDF copiado para {pasta_destino}')
             else:
-                print('Nenhum selo encontrado nesse PDF.')
+                print('Nenhum selo encontrado nesse PDF .')
