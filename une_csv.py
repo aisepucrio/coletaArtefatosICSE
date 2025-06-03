@@ -60,7 +60,7 @@ def unir_csvs_e_gerar_json_formatado(csv_links_path, csv_artifacts_path, csv_sai
 # Executa a função com os arquivos fornecidos
 unir_csvs_e_gerar_json_formatado(
     csv_links_path='links_artigos_divididos.csv',
-    csv_artifacts_path='2024acm_articles.csv',
+    csv_artifacts_path='icse_articles\2024acm_articles.csv',
     csv_saida='icse2024_links_no_artigo.csv',
     json_formatado_saida='icse2024_links_no_artigo.json'
 )
