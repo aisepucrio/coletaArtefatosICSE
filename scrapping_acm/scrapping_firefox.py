@@ -7,6 +7,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import time
 import csv
+import os
 
 icse_proceedings = {
     2024:'https://dl.acm.org/doi/proceedings/10.1145/3597503',
@@ -81,13 +82,19 @@ def get_metadata(year):
         print("Artifact Reusable:", artifact_reusable)
         print("Artifact Functional:", artifact_functional)
 
-    file_name= f"{year}acm_articles.csv"
-    with open(file_name, mode="w", newline="", encoding="utf-8") as file:
-        writer = csv.DictWriter(file, fieldnames=["Title", "DOI", "Artifact Available", "Artifact Reusable", "Artifact Functional"])
-        writer.writeheader()
-        writer.writerows(results)
+        # Defina o nome do arquivo com base no ano
+        file_name = f"icse_articles/{year}acm_articles.csv"
 
-    print(f"\n✅ Results saved in {file_name}")
+        # Verifique se a pasta 'icse_articles' existe, se não, crie-a
+        os.makedirs('icse_articles', exist_ok=True)
+
+        # Escreva os resultados no arquivo CSV
+        with open(file_name, mode="w", newline="", encoding="utf-8") as file:
+            writer = csv.DictWriter(file, fieldnames=["Title", "DOI", "Artifact Available", "Artifact Reusable", "Artifact Functional"])
+            writer.writeheader()
+            writer.writerows(results)
+
+            print(f"\n✅ Results saved in {file_name}")
 
 def accept_cookies():
     try:
