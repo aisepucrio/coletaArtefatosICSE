@@ -4,6 +4,12 @@ import csv
 import os
 import json
 
+'''
+esse script vai extrair todos os links relacionados 
+aos artigos com selo ou seja , fará a análise sobre os 
+88 artigos 
+'''
+
 def extrair_links_pdf(caminho_pdf):
     documento = fitz.open(caminho_pdf)
     texto = ''
