@@ -1,13 +1,839 @@
 [
   {
-    "PDF": "artefato2.pdf",
+    "PDF": "056900a042.pdf",
+    "Links_antes_REFERENCES": [],
+    "Links_depois_REFERENCES": []
+  },
+  {
+    "PDF": "056900a054.pdf",
     "Links_antes_REFERENCES": [
-      "https://github.com/secure-software-engineering/SparseIDE",
-      "https://zenodo.org/records/10498325"
+      "https://github.com/SpectraSynthesizer"
+    ],
+    "Links_depois_REFERENCES": []
+  },
+  {
+    "PDF": "056900a090.pdf",
+    "Links_antes_REFERENCES": [],
+    "Links_depois_REFERENCES": [
+      "https://github.com/jameysharp/corrode,",
+      "https://github.com/rust-lang/rust-bindgen."
+    ]
+  },
+  {
+    "PDF": "056900a165.pdf",
+    "Links_antes_REFERENCES": [
+      "https://github.com/FuturesLab/OGHarn",
+      "https://github.com/libgeos/geos/issues/1084"
     ],
     "Links_depois_REFERENCES": [
-      "https://github.com/CodeShield-Security/SPDS.",
-      "https://github.com/soot-oss/heros."
+      "https://github.com/gpac/",
+      "https://github.com/gpac/gpac.",
+      "https://github.com/pnggroup/libpng/issues/458.",
+      "https://github.com/libgeos/geos/issues/996.",
+      "https://github.com/pantoniou/libfyaml.",
+      "https://github.com/lexbor/lexbor.",
+      "https://github.com/lexbor/lexbor/blob/master/test/fuzzers/lexbor/html/",
+      "https://github.com/google/oss-fuzz/",
+      "https://github.com/google/oss-fuzz/blob/master/projects/",
+      "https://github.com/",
+      "https://github.com/",
+      "https://github.com/",
+      "https://github.com/AcademySoftwareFoundation/",
+      "https://github.com/AcademySoftwareFoundation/",
+      "https://github.com/google/oss-fuzz/blob/master/projects/zlib/",
+      "https://github.com/google/oss-fuzz/blob/master/projects/zlib/",
+      "https://github.com/google/oss-fuzz/blob/master/projects/zlib/",
+      "https://github.com/google/oss-fuzz/blob/master/projects/zlib/",
+      "https://github.com/google/oss-fuzz/blob/master/projects/zlib/",
+      "https://github.com/google/oss-fuzz/blob/master/projects/zlib/",
+      "https://github.com/google/oss-fuzz/blob/master/projects/zlib/",
+      "https://github.com/google/oss-fuzz/blob/master/projects/zlib/zlib",
+      "https://github.com/google/oss-fuzz/blob/master/projects/zlib/zlib",
+      "https://github.com/DaveGamble/cJSON.",
+      "https://github.com/",
+      "https://github.com/cogu/cﬁle.",
+      "https://github.com/jkuhlmann/cgltf.",
+      "https://github.com/",
+      "https://github.com/google/oss-fuzz/blob/master/projects/lcms/cms",
+      "https://github.com/",
+      "https://github.com/",
+      "https://github.com/",
+      "https://github.com/vstakhov/libucl/blob/master/tests/fuzzers/ucl",
+      "https://github.com/vstakhov/libucl/blob/master/tests/fuzzers/ucl",
+      "https://github.com/vstakhov/libucl/.",
+      "https://github.com/raysan5/raylib.",
+      "https://github.com/google/oss-fuzz/blob/master/projects/hdf5/h5",
+      "https://github.com/the-tcpdump-group/libpcap/blob/master/testprogs/",
+      "https://github.com/the-tcpdump-group/libpcap/blob/master/testprogs/",
+      "https://github.com/ladislav-zezula/"
     ]
+  },
+  {
+    "PDF": "056900a217.pdf",
+    "Links_antes_REFERENCES": [],
+    "Links_depois_REFERENCES": [
+      "https://github.com/aws-cloudformation/cfn-lint,"
+    ]
+  },
+  {
+    "PDF": "056900a255.pdf",
+    "Links_antes_REFERENCES": [],
+    "Links_depois_REFERENCES": []
+  },
+  {
+    "PDF": "056900a307.pdf",
+    "Links_antes_REFERENCES": [],
+    "Links_depois_REFERENCES": []
+  },
+  {
+    "PDF": "056900a347.pdf",
+    "Links_antes_REFERENCES": [
+      "https://github.com/"
+    ],
+    "Links_depois_REFERENCES": [
+      "https://github.com/ccz181078/Coq-BB5,",
+      "https://github.com/PnVDiscord/PnVRocqLib,",
+      "https://github.com/coq-community,"
+    ]
+  },
+  {
+    "PDF": "056900a360.pdf",
+    "Links_antes_REFERENCES": [
+      "https://github.com/less-lab-uva/DiffTest4AV",
+      "https://github.com/less-lab-uva/DiffTest4AV"
+    ],
+    "Links_depois_REFERENCES": [
+      "https://github.com/commaai/openpilot,",
+      "https://github.com/commaai/openpilot/blob/",
+      "https://github.com/commaai/openpilot/commit/",
+      "https://github.com/commaai/openpilot/commit/",
+      "https://github.com/commaai/openpilot/commit/",
+      "https://github.com/commaai/openpilot/commit/",
+      "https://github.com/commaai/openpilot/commit/"
+    ]
+  },
+  {
+    "PDF": "056900a398.pdf",
+    "Links_antes_REFERENCES": [],
+    "Links_depois_REFERENCES": [
+      "https://github.com/",
+      "https://github.com/udacity/"
+    ]
+  },
+  {
+    "PDF": "056900a424.pdf",
+    "Links_antes_REFERENCES": [],
+    "Links_depois_REFERENCES": [
+      "https://github.com/ApolloAuto/apollo",
+      "https://github.com/commaai/openpilot"
+    ]
+  },
+  {
+    "PDF": "056900a476.pdf",
+    "Links_antes_REFERENCES": [],
+    "Links_depois_REFERENCES": []
+  },
+  {
+    "PDF": "056900a489.pdf",
+    "Links_antes_REFERENCES": [],
+    "Links_depois_REFERENCES": [
+      "https://github.com/20001LastOrder/"
+    ]
+  },
+  {
+    "PDF": "056900a502.pdf",
+    "Links_antes_REFERENCES": [],
+    "Links_depois_REFERENCES": [
+      "https://github.com/DLR-RM/stable-baselines3",
+      "https://github.com/hill-a/stable-baselines,",
+      "https://zenodo.org/record/8127025"
+    ]
+  },
+  {
+    "PDF": "056900a527.pdf",
+    "Links_antes_REFERENCES": [],
+    "Links_depois_REFERENCES": []
+  },
+  {
+    "PDF": "056900a540.pdf",
+    "Links_antes_REFERENCES": [],
+    "Links_depois_REFERENCES": []
+  },
+  {
+    "PDF": "056900a629.pdf",
+    "Links_antes_REFERENCES": [],
+    "Links_depois_REFERENCES": []
+  },
+  {
+    "PDF": "056900a730.pdf",
+    "Links_antes_REFERENCES": [],
+    "Links_depois_REFERENCES": []
+  },
+  {
+    "PDF": "056900a756.pdf",
+    "Links_antes_REFERENCES": [
+      "https://github.com/LingfengZhang98/HIFI"
+    ],
+    "Links_depois_REFERENCES": [
+      "https://github.com/propublica/compas-analysis"
+    ]
+  },
+  {
+    "PDF": "056900a782.pdf",
+    "Links_antes_REFERENCES": [
+      "https://github.com/cmu-soda/",
+      "https://github.com/cmu-soda/FairSense/"
+    ],
+    "Links_depois_REFERENCES": []
+  },
+  {
+    "PDF": "056900a795.pdf",
+    "Links_antes_REFERENCES": [],
+    "Links_depois_REFERENCES": [
+      "https://github.com/google/syzkaller,",
+      "https://github.com/IntelLabs/kafl.targets/",
+      "https://github.com/google/",
+      "https://github.com/google/syzkaller/blob/master/",
+      "https://github.com/apple-oss-distributions/xnu#",
+      "https://zenodo.org/doi/10.",
+      "https://github.com/paulgazz/kmax,",
+      "https://github.com/google/"
+    ]
+  },
+  {
+    "PDF": "056900a808.pdf",
+    "Links_antes_REFERENCES": [],
+    "Links_depois_REFERENCES": []
+  },
+  {
+    "PDF": "056900a872.pdf",
+    "Links_antes_REFERENCES": [],
+    "Links_depois_REFERENCES": [
+      "https://github.com/sedoubleblinder/orca.git.",
+      "https://github.com/google-research/python-graphs.",
+      "https://github.com/ionelmc/python-hunter,"
+    ]
+  },
+  {
+    "PDF": "056900a975.pdf",
+    "Links_antes_REFERENCES": [
+      "https://github.com/"
+    ],
+    "Links_depois_REFERENCES": [
+      "https://github.com/logpai/loghub."
+    ]
+  },
+  {
+    "PDF": "056900a988.pdf",
+    "Links_antes_REFERENCES": [
+      "https://github.com/ideas-labo/ndp."
+    ],
+    "Links_depois_REFERENCES": []
+  },
+  {
+    "PDF": "056900b001.pdf",
+    "Links_antes_REFERENCES": [
+      "https://github.com/soarsmu/Avatar",
+      "https://github.com/microsoft/CodeXGLUE/blob/main/Code-Code/",
+      "https://github.com/microsoft/CodeXGLUE/tree/main/Code-Code/"
+    ],
+    "Links_depois_REFERENCES": [
+      "https://github.com/tree-sitter/"
+    ]
+  },
+  {
+    "PDF": "056900b052.pdf",
+    "Links_antes_REFERENCES": [
+      "https://github.com/mesonbuild/meson",
+      "https://github.com/rust-lang/rust/labels/A-reproducibility",
+      "https://github.com/golang/go/issues?q=is:issue+is:open+"
+    ],
+    "Links_depois_REFERENCES": []
+  },
+  {
+    "PDF": "056900b064.pdf",
+    "Links_antes_REFERENCES": [],
+    "Links_depois_REFERENCES": [
+      "https://github.com/wala/WALA,",
+      "https://github.com/soot-oss/soot,",
+      "https://github.com/opalj/opal,",
+      "https://github.com/cs-au-dk/TAJS,",
+      "https://github.com/vitsalis/PyCG,",
+      "https://github.com/scottrogowski/code2flow,",
+      "https://github.com/secure-software-engineering/FlowDroid,",
+      "https://github.com/arguslab/Argus-SAF,",
+      "https://github.com/MIT-PAC/droidsafe-src,",
+      "https://github.com/facebook/infer,",
+      "https://github.com/secure-software-engineering/",
+      "https://github.com/UTD-FAST-Lab/NDSAStudy,",
+      "https://github.com/UTD-FAST-Lab/NDSAStudy/blob/",
+      "https://github.com/regehr/",
+      "https://github.com/toy-box/toybox,",
+      "https://github.com/sqlite/sqlite,",
+      "https://github.com/openssl/openssl,",
+      "https://github.com/"
+    ]
+  },
+  {
+    "PDF": "056900b089.pdf",
+    "Links_antes_REFERENCES": [],
+    "Links_depois_REFERENCES": []
+  },
+  {
+    "PDF": "056900b114.pdf",
+    "Links_antes_REFERENCES": [],
+    "Links_depois_REFERENCES": [
+      "https://github.com/se-doubleblind/intellismt"
+    ]
+  },
+  {
+    "PDF": "056900b165.pdf",
+    "Links_antes_REFERENCES": [],
+    "Links_depois_REFERENCES": []
+  },
+  {
+    "PDF": "056900b178.pdf",
+    "Links_antes_REFERENCES": [],
+    "Links_depois_REFERENCES": [
+      "https://github.com/ycshao12/Hydrangea",
+      "https://github.com/alexrozanski/LlamaChat,",
+      "https://github.com/yujiosaka/ChatIQ,",
+      "https://github.com/mayooear/",
+      "https://github.com/yoheinakajima/babyagi,",
+      "https://github.com/FOLLGAD/",
+      "https://github.com/",
+      "https://github.com/h2oai/h2ogpt,",
+      "https://github.com/zylon-ai/private-gpt,",
+      "https://github.com/c0sogi/LLMChat,",
+      "https://github.com/mattzcarey/",
+      "https://github.com/QuivrHQ/quivr,",
+      "https://github.com/yvann-ba/Robby-chatbot,",
+      "https://github.com/Significant-Gravitas/",
+      "https://github.com/X-D-Lab/",
+      "https://github.com/Mintplex-Labs/",
+      "https://github.com/chatchat-space/Langchain-Chatchat,",
+      "https://github.com/Haste171/"
+    ]
+  },
+  {
+    "PDF": "056900b191.pdf",
+    "Links_antes_REFERENCES": [],
+    "Links_depois_REFERENCES": []
+  },
+  {
+    "PDF": "056900b243.pdf",
+    "Links_antes_REFERENCES": [],
+    "Links_depois_REFERENCES": []
+  },
+  {
+    "PDF": "056900b256.pdf",
+    "Links_antes_REFERENCES": [
+      "https://github.com/niMgnoeSeeL/ChaoMI",
+      "https://github.com/niMgnoeSeeL/ChaoMI."
+    ],
+    "Links_depois_REFERENCES": []
+  },
+  {
+    "PDF": "056900b320.pdf",
+    "Links_antes_REFERENCES": [],
+    "Links_depois_REFERENCES": [
+      "https://github.com/fraolBatole/LocalizeAgent."
+    ]
+  },
+  {
+    "PDF": "056900b333.pdf",
+    "Links_antes_REFERENCES": [
+      "https://github.com/ideas-labo/dlisa.",
+      "https://github.com/ideas-labo/dlisa.",
+      "https://github.com/ideas-labo/dlisa.",
+      "https://github.com/ideas-labo/dlisa."
+    ],
+    "Links_depois_REFERENCES": [
+      "https://zenodo.org/records/7504284,",
+      "https://github.com/ﬂanglet/kanzi,",
+      "https://github.com/patrickfav/density-converter,",
+      "https://github.com/h2database/h2database,",
+      "https://github.com/apache/xmlgraphics-batik,",
+      "https://github.com/xz-mirror/xz,",
+      "https://github.com/ckolivas/lrzip,",
+      "https://github.com/mirror/x264,",
+      "https://github.com/Z3Prover/z3,"
+    ]
+  },
+  {
+    "PDF": "056900b396.pdf",
+    "Links_antes_REFERENCES": [],
+    "Links_depois_REFERENCES": []
+  },
+  {
+    "PDF": "056900b422.pdf",
+    "Links_antes_REFERENCES": [
+      "https://github.com/clozeMasterPro/clozeMaster"
+    ],
+    "Links_depois_REFERENCES": [
+      "https://github.com/huggingface/candle.",
+      "https://github.com/rust-lang/rust/tree/",
+      "https://github.com/rust-lang/glacier.",
+      "https://github.com/cbeuw/rustlantis.",
+      "https://github.com/rust-lang/nomicon.",
+      "https://github.com/rust-lang/",
+      "https://github.com/rust-lang-nursery/",
+      "https://github.com/openai/human-eval.",
+      "https://github.com/"
+    ]
+  },
+  {
+    "PDF": "056900b436.pdf",
+    "Links_antes_REFERENCES": [
+      "https://github.com/FudanSELab/"
+    ],
+    "Links_depois_REFERENCES": [
+      "https://github.com/",
+      "https://github.com/eclipse-jdt/eclipse.jdt.core"
+    ]
+  },
+  {
+    "PDF": "056900b449.pdf",
+    "Links_antes_REFERENCES": [],
+    "Links_depois_REFERENCES": []
+  },
+  {
+    "PDF": "056900b462.pdf",
+    "Links_antes_REFERENCES": [
+      "https://github.com/"
+    ],
+    "Links_depois_REFERENCES": []
+  },
+  {
+    "PDF": "056900b475.pdf",
+    "Links_antes_REFERENCES": [],
+    "Links_depois_REFERENCES": []
+  },
+  {
+    "PDF": "056900b566.pdf",
+    "Links_antes_REFERENCES": [
+      "https://github.com/OctavioGalland/afllive/blob/main/README.md",
+      "https://github.com/",
+      "https://github.com/hgarrereyn/GraphFuzz/issues/1",
+      "https://github.com/samtools/htslib/commits/develop/test/fuzz/hts",
+      "https://github.com/google/oss-fuzz/commit/af319543",
+      "https://github.com/google/",
+      "https://github.com/OctavioGalland/afllive/tree/main/config"
+    ],
+    "Links_depois_REFERENCES": [
+      "https://github.com/google/",
+      "https://github.com/google/syzkaller,"
+    ]
+  },
+  {
+    "PDF": "056900b579.pdf",
+    "Links_antes_REFERENCES": [
+      "https://github.com/chuanluocs/HSCA",
+      "https://github.com/chuanluocs/SamplingCA/tree/general",
+      "https://github.com/chuanluocs/CAmpactor/tree/general",
+      "https://github.com/chuanluocs/HSCA."
+    ],
+    "Links_depois_REFERENCES": []
+  },
+  {
+    "PDF": "056900b592.pdf",
+    "Links_antes_REFERENCES": [],
+    "Links_depois_REFERENCES": [
+      "https://github.com/uw-pluverse/perses.",
+      "https://github.com/BaseXdb/basex",
+      "https://github.com/wala/"
+    ]
+  },
+  {
+    "PDF": "056900b604.pdf",
+    "Links_antes_REFERENCES": [
+      "https://github.com/skkusal/TopSeed"
+    ],
+    "Links_depois_REFERENCES": [
+      "https://github.com/jburnim/"
+    ]
+  },
+  {
+    "PDF": "056900b653.pdf",
+    "Links_antes_REFERENCES": [
+      "https://zenodo.org/doi/10.5281/zenodo.13184028."
+    ],
+    "Links_depois_REFERENCES": [
+      "https://github.com/open-compass/opencompass,"
+    ]
+  },
+  {
+    "PDF": "056900b704.pdf",
+    "Links_antes_REFERENCES": [
+      "https://github.com/xlab-uiuc/ciri."
+    ],
+    "Links_depois_REFERENCES": [
+      "https://github.com/xlab-uiuc/openctest,",
+      "https://github.com/langchain-ai/langchain,"
+    ]
+  },
+  {
+    "PDF": "056900b768.pdf",
+    "Links_antes_REFERENCES": [],
+    "Links_depois_REFERENCES": [
+      "https://github.com/hwchase17/langchain",
+      "https://github.com/",
+      "https://github.com/FlowiseAI/Flowise",
+      "https://github.com/0xk1h0/ChatGPT_DAN,",
+      "https://github.com/",
+      "https://github.com/logspace-ai/langflow",
+      "https://github.com/griptape-ai/griptape",
+      "https://github.com/langchain-ai/streamlit-agent/",
+      "https://github.com/langchain-ai/streamlit-agent/blob/main/",
+      "https://github.com/hardbyte/qabot",
+      "https://github.com/AI-ANK/",
+      "https://github.com/protectai/rebuff"
+    ]
+  },
+  {
+    "PDF": "056900b819.pdf",
+    "Links_antes_REFERENCES": [],
+    "Links_depois_REFERENCES": []
+  },
+  {
+    "PDF": "056900b934.pdf",
+    "Links_antes_REFERENCES": [],
+    "Links_depois_REFERENCES": [
+      "https://github.com/alexei-led/pumba/",
+      "https://github.com/openjdk/jmh"
+    ]
+  },
+  {
+    "PDF": "056900c024.pdf",
+    "Links_antes_REFERENCES": [
+      "https://github.com/uw-pluverse/perses."
+    ],
+    "Links_depois_REFERENCES": [
+      "https://github.com/Amocy-Wang/ProbDD",
+      "https://zenodo.org/records/14425530",
+      "https://github.com/renatahodovan/picire",
+      "https://github.com/renatahodovan/picireny"
+    ]
+  },
+  {
+    "PDF": "056900c062.pdf",
+    "Links_antes_REFERENCES": [],
+    "Links_depois_REFERENCES": []
+  },
+  {
+    "PDF": "056900c075.pdf",
+    "Links_antes_REFERENCES": [],
+    "Links_depois_REFERENCES": [
+      "https://github.com/rust-lan",
+      "https://github.com/rust-lang/rfcs/pull/3559",
+      "https://github.com/rust-lang/miri/issues/2133",
+      "https://github.com/TheDan64/inkwell",
+      "https://github.com/rust-lang/unsafe-c"
+    ]
+  },
+  {
+    "PDF": "056900c087.pdf",
+    "Links_antes_REFERENCES": [
+      "https://github.com/cedricrupb/pycpa"
+    ],
+    "Links_depois_REFERENCES": []
+  },
+  {
+    "PDF": "056900c100.pdf",
+    "Links_antes_REFERENCES": [],
+    "Links_depois_REFERENCES": [
+      "https://github.com/Marphownio/RepSEO"
+    ]
+  },
+  {
+    "PDF": "056900c151.pdf",
+    "Links_antes_REFERENCES": [
+      "https://github.com/nabsonp/ICSE-2025/blob/main/Initial",
+      "https://github.com/nabsonp/ICSE-2025/blob/main/Survey",
+      "https://github.com/nabsonp/micro-frontends-anti-patterns/pulls",
+      "https://github.com/nabsonp/micro-frontends-anti-patterns/blob/main/",
+      "https://github.com/nabsonp/micro-frontends-anti-patterns/blob/main/src/",
+      "https://github.com/nabsonp/ICSE-2025/blob/main/Survey",
+      "https://github.com/nabsonp/ICSE-2025/blob/main/Statistic",
+      "https://github.com/nabsonp/ICSE-2025/blob/main/Thematic",
+      "https://github.com/nabsonp/ICSE-2025/blob/main/Improved",
+      "https://github.com/nabsonp/ICSE-2025/blob/main/Rapid"
+    ],
+    "Links_depois_REFERENCES": []
+  },
+  {
+    "PDF": "056900c163.pdf",
+    "Links_antes_REFERENCES": [],
+    "Links_depois_REFERENCES": [
+      "https://figshare.com/s/",
+      "https://github.com/multilang-depends/depends,"
+    ]
+  },
+  {
+    "PDF": "056900c188.pdf",
+    "Links_antes_REFERENCES": [
+      "https://github.com/sola-st/RepairAgent.",
+      "https://github.com/sola-st/RepairAgent"
+    ],
+    "Links_depois_REFERENCES": []
+  },
+  {
+    "PDF": "056900c225.pdf",
+    "Links_antes_REFERENCES": [],
+    "Links_depois_REFERENCES": [
+      "https://github.com/jsvine/pdfplumber",
+      "https://zenodo.org/record/8127025"
+    ]
+  },
+  {
+    "PDF": "056900c238.pdf",
+    "Links_antes_REFERENCES": [],
+    "Links_depois_REFERENCES": [
+      "https://github.com/eleurent/",
+      "https://github.com/tensorforce/tensorforce",
+      "https://github.com/keras-rl/keras-rl,",
+      "https://github.com/",
+      "https://github.com/openai/gym/",
+      "https://github.com/DLR-RM/",
+      "https://github.com/Deepakgthomas/benchmarking"
+    ]
+  },
+  {
+    "PDF": "056900c264.pdf",
+    "Links_antes_REFERENCES": [],
+    "Links_depois_REFERENCES": []
+  },
+  {
+    "PDF": "056900c316.pdf",
+    "Links_antes_REFERENCES": [],
+    "Links_depois_REFERENCES": [
+      "https://github.com/features/issues,",
+      "https://github.com/mozilla/bugbug,”"
+    ]
+  },
+  {
+    "PDF": "056900c393.pdf",
+    "Links_antes_REFERENCES": [
+      "https://github.com/SEED-VT/Web-Ads-Accessibility."
+    ],
+    "Links_depois_REFERENCES": [
+      "https://github.com/easylist/easylist,",
+      "https://github.com/easylist/easylist/tree/master/",
+      "https://github.com/uBlockOrigin/uAssets/blob/master/filters/"
+    ]
+  },
+  {
+    "PDF": "056900c406.pdf",
+    "Links_antes_REFERENCES": [
+      "https://github.com/enriquebarba97/EnergyDebug.",
+      "https://github.com/enriquebarba97/docker-energy."
+    ],
+    "Links_depois_REFERENCES": [
+      "https://github.com/",
+      "https://github.com/",
+      "https://github.com/"
+    ]
+  },
+  {
+    "PDF": "056900c419.pdf",
+    "Links_antes_REFERENCES": [],
+    "Links_depois_REFERENCES": [
+      "https://github.com/mooselab/Discover-Data-Quality-With-RIOLU,",
+      "https://github.com/SaswatPadhi/FlashProﬁleDemo/tree/master/tests,"
+    ]
+  },
+  {
+    "PDF": "056900c432.pdf",
+    "Links_antes_REFERENCES": [],
+    "Links_depois_REFERENCES": [
+      "https://github.com/ManagedKube/kubernetes-"
+    ]
+  },
+  {
+    "PDF": "056900c458.pdf",
+    "Links_antes_REFERENCES": [
+      "https://github.com/reactos/reactos",
+      "https://github.com/Tencent/TNN",
+      "https://github.com/pybind/pybind11",
+      "https://github.com/Genius-Choi/TIVER-public."
+    ],
+    "Links_depois_REFERENCES": [
+      "https://github.com/universal-ctags/ctags.",
+      "https://github.com/c0fec0de/anytree."
+    ]
+  },
+  {
+    "PDF": "056900c470.pdf",
+    "Links_antes_REFERENCES": [],
+    "Links_depois_REFERENCES": [
+      "https://github.com/openai/whisper."
+    ]
+  },
+  {
+    "PDF": "056900c522.pdf",
+    "Links_antes_REFERENCES": [
+      "https://github.com/ideas-labo/cp-mod/blob/"
+    ],
+    "Links_depois_REFERENCES": []
+  },
+  {
+    "PDF": "056900c561.pdf",
+    "Links_antes_REFERENCES": [
+      "https://github.com/squaresLab/entropy-apr-replication",
+      "https://github.com/squaresLab/TBar",
+      "https://zenodo.org/records/10851256,",
+      "https://github.com/squaresLab/"
+    ],
+    "Links_depois_REFERENCES": []
+  },
+  {
+    "PDF": "056900c638.pdf",
+    "Links_antes_REFERENCES": [
+      "https://github.com/google/magika.",
+      "https://github.com/google/magika."
+    ],
+    "Links_depois_REFERENCES": [
+      "https://github.com/yoeo/guesslang.",
+      "https://github.com.",
+      "https://github.com/",
+      "https://github.com/apache/tika/pull/",
+      "https://github.com/horsicq/",
+      "https://github.com/trailofbits/polyﬁle.",
+      "https://github.com/h2non/ﬁletype.",
+      "https://github.com/h2non/ﬁletype.py.",
+      "https://github.com/sindresorhus/ﬁle-type.",
+      "https://github.com/yoeo/guesslang/blob/master/",
+      "https://github.com/",
+      "https://github.com/ﬁle/ﬁle/",
+      "https://github.com/microsoft/vscode/blob/",
+      "https://github.com/",
+      "https://github.com/CybercentreCanada/assemblyline."
+    ]
+  },
+  {
+    "PDF": "056900c650.pdf",
+    "Links_antes_REFERENCES": [],
+    "Links_depois_REFERENCES": [
+      "https://github.com/features/copilot."
+    ]
+  },
+  {
+    "PDF": "056900c676.pdf",
+    "Links_antes_REFERENCES": [],
+    "Links_depois_REFERENCES": [
+      "https://github.com/sola-st/Treefix"
+    ]
+  },
+  {
+    "PDF": "056900c751.pdf",
+    "Links_antes_REFERENCES": [],
+    "Links_depois_REFERENCES": [
+      "https://github.com,",
+      "https://github.com/skylot/jadx,"
+    ]
+  },
+  {
+    "PDF": "056900c803.pdf",
+    "Links_antes_REFERENCES": [],
+    "Links_depois_REFERENCES": [
+      "https://github.com/fgwei/ICC-Bench.",
+      "https://github.com/secure-software-engineering/DroidBench/tree/"
+    ]
+  },
+  {
+    "PDF": "056900c816.pdf",
+    "Links_antes_REFERENCES": [],
+    "Links_depois_REFERENCES": [
+      "https://github.com/",
+      "https://github.com/",
+      "https://github.com/binsec/rosa",
+      "https://github.com/binsec/rosarum",
+      "https://github.com/"
+    ]
+  },
+  {
+    "PDF": "056900c829.pdf",
+    "Links_antes_REFERENCES": [],
+    "Links_depois_REFERENCES": [
+      "https://zenodo.org/records/14751981.",
+      "https://github.com/timlib/webXray"
+    ]
+  },
+  {
+    "PDF": "056900c893.pdf",
+    "Links_antes_REFERENCES": [],
+    "Links_depois_REFERENCES": [
+      "https://zenodo.org/",
+      "https://github.com/SySeVR/"
+    ]
+  },
+  {
+    "PDF": "056900c931.pdf",
+    "Links_antes_REFERENCES": [],
+    "Links_depois_REFERENCES": [
+      "https://github.com/",
+      "https://github.com/jakezappin/HQC"
+    ]
+  },
+  {
+    "PDF": "056900c944.pdf",
+    "Links_antes_REFERENCES": [],
+    "Links_depois_REFERENCES": []
+  },
+  {
+    "PDF": "056900c957.pdf",
+    "Links_antes_REFERENCES": [
+      "https://github.com/starlab-unist/pathfinder-artifact"
+    ],
+    "Links_depois_REFERENCES": []
+  },
+  {
+    "PDF": "056900c996.pdf",
+    "Links_antes_REFERENCES": [
+      "https://github.com/OSUSecLab/ProxyEx."
+    ],
+    "Links_depois_REFERENCES": [
+      "https://github.com/apehex/web3-evasion-techniques/blob/main/",
+      "https://github.com/ConsenSys/mythril-",
+      "https://github.com/"
+    ]
+  },
+  {
+    "PDF": "056900d048.pdf",
+    "Links_antes_REFERENCES": [],
+    "Links_depois_REFERENCES": [
+      "https://github.com/NetSP-",
+      "https://github.com/",
+      "https://github.com/bitcoin/bitcoin/blob/",
+      "https://github.com/bitcoin/",
+      "https://github.com/ethereum/",
+      "https://github.com/ethereum/",
+      "https://github.com/",
+      "https://github.com/ethereum/consensus-specs/issues/",
+      "https://github.com/",
+      "https://github.com/bitcoin/bips/blob/master/bip-0141.",
+      "https://github.com/google/oss-fuzz.",
+      "https://github.com/sigp/beacon-fuzz,",
+      "https://github.com/sigp/blockprint,",
+      "https://github.com/"
+    ]
+  },
+  {
+    "PDF": "056900d085.pdf",
+    "Links_antes_REFERENCES": [
+      "https://github.com/dvaave/BSan",
+      "https://github.com/vul337/mtsan-repo"
+    ],
+    "Links_depois_REFERENCES": [
+      "https://github.com/Microsoft/MSRC-Security-"
+    ]
+  },
+  {
+    "PDF": "056900d136.pdf",
+    "Links_antes_REFERENCES": [
+      "https://github.com/spideruci/crossfiremutants",
+      "https://github.com/spideruci/crossfiremutants."
+    ],
+    "Links_depois_REFERENCES": []
   }
 ]
